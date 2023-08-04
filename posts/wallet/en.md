@@ -1,15 +1,9 @@
 ---
-
 title: "wallet"
-
 level: "beginner"
-
 coverImage: "/assets/blog/what-is-bitcoin/cover.png"
-
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
 url: "/assets/blog/what-is-bitcoin/cover.png"
 
 ---
@@ -102,5 +96,5 @@ Always keep in mind that creating and routinely updating backups is an integral 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzA2ODAwOV19
+eyJoaXN0b3J5IjpbMTkzNzgyNDMzNSwtNzAzMDY4MDA5XX0=
 -->
