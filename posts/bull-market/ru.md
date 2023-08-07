@@ -1,16 +1,10 @@
 ---
-
 title: "Что такое бычий рынок?"
-
 level: "beginner"
-
-coverImage: "/assets/blog/what-is-bitcoin/cover.png"
-
+coverImage: "/assets/blog/bull-market/cover.jpg"
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
-url: "/assets/blog/what-is-bitcoin/cover.png"
+  url: "/assets/blog/bull-market/cover.jpg"
 
 ---
 # Что такое бычий рынок

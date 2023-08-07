@@ -1,18 +1,12 @@
 ---
-
 title: "Что такое треугольный арбитраж"
-
 level: "beginner"
-
-coverImage: "/assets/blog/what-is-bitcoin/cover.png"
-
+coverImage: "/assets/blog/triangular-arbitrage/cover.png"
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
-url: "/assets/blog/what-is-bitcoin/cover.png"
-
+  url: "/assets/blog/triangular-arbitrage/cover.png"
 ---
+
 # Что такое треугольный арбитраж и как его использовать
 
 ## Вступление 

@@ -1,17 +1,10 @@
 ---
-
 title: "How to trade Bitcoin futures contracts"
-
 level: "beginner"
-
-coverImage: "/assets/blog/what-is-bitcoin/cover.png"
-
+coverImage: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
-url: "/assets/blog/what-is-bitcoin/cover.png"
-
+  url: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
 ---
 
 # How to trade Bitcoin futures contracts

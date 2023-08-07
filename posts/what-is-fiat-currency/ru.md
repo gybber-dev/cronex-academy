@@ -1,16 +1,10 @@
 ---
 title: "Что такое Фиатная валюта?"
-
 level: "beginner"
-
-coverImage: "/assets/blog/what-is-bitcoinfiat-currency/cover.png"
-
+coverImage: "/assets/blog/what-is-fiat-currency/cover.png"
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
-  url: "/assets/blog/what-is-bitcoinfiat-currency/cover.png"
-
+  url: "/assets/blog/what-is-fiat-currency/cover.png"
 ---
 
 # Что такое Фиатная Валюта?

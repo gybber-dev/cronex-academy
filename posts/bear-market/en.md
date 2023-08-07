@@ -1,16 +1,11 @@
 ---
 
 title: "What is a bear market?"
-
 level: "beginner"
-
-coverImage: "/assets/blog/what-is-bitcoin/cover.png"
-
+coverImage: "/assets/blog/bear-market/cover.jpg"
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
-url: "/assets/blog/what-is-bitcoin/cover.png"
+  url: "/assets/blog/bear-market/cover.png"
 
 ---
 ## Understanding the Bear Market

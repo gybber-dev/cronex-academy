@@ -1,18 +1,12 @@
 ---
-
 title: "What is EOS"
-
 level: "beginner"
-
-coverImage: "/assets/blog/what-is-bitcoin/cover.png"
-
+coverImage: "/assets/blog/what-is-eos/cover.png"
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
-url: "/assets/blog/what-is-bitcoin/cover.png"
-
+  url: "/assets/blog/what-is-eos/cover.png"
 ---
+
 # What is EOS
 
 ## Introduction

@@ -6,7 +6,7 @@ level: "beginner"
 coverImage: "cover.png"
 date: "2023-08-06T05:35:07.322Z"
 ogImage:
-url: "cover.png"
+  url: "cover.png"
 
 ---
 # Blockchain 

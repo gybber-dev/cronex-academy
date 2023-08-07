@@ -1,18 +1,12 @@
 ---
-
 title: "Криптокошелек"
-
 level: "beginner"
-
-coverImage: "/assets/blog/what-is-bitcoin/cover.png"
-
+coverImage: "/assets/blog/wallet/cover.png"
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
-url: "/assets/blog/what-is-bitcoin/cover.png"
-
+  url: "/assets/blog/wallet/cover.png"
 ---
+
 # Информация о криптокошельках
 
 Если коротко, то криптокошелек – это инструмент, который можно использовать для взаимодействия с блокчейн-сетью. Кошельки делятся на три группы: программные, аппаратные и бумажные. В зависимости от механизма работы их также можно называть горячими или холодными.

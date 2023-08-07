@@ -1,18 +1,12 @@
 ---
-
 title: "типы ордеров"
-
 level: "beginner"
-
-coverImage: "/assets/blog/what-is-bitcoin/cover.png"
-
+coverImage: "/assets/blog/order/cover.png"
 date: "2022-02-20T05:35:07.322Z"
-
 ogImage:
-
-url: "/assets/blog/what-is-bitcoin/cover.png"
-
+  url: "/assets/blog/order/cover.png"
 ---
+
 # Типы ордеров
 
 Когда вы торгуете акциями или криптовалютой, вы взаимодействуете с рынком, размещая ордера:
