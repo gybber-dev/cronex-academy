@@ -2,7 +2,7 @@
 title: "Что такое P2P-торговля"
 level: "beginner"
 coverImage: "/assets/blog/P2P-trade/cover.png"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-08-08T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/wallet/cover.png"
 ---
@@ -10,5 +10,5 @@ ogImage:
 
 ## Introduction
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzU5MjczNV19
+eyJoaXN0b3J5IjpbLTEzNDUyODQxMjJdfQ==
 -->
