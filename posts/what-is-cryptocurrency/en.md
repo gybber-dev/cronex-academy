@@ -1,5 +1,5 @@
 ---
-title: "What is EOS"
+title: "What is a cryptocurrency"
 level: "beginner"
 coverImage: "/assets/blog/What is a cryptocurrency/cover.png"
 date: "2022-02-20T05:35:07.322Z"
@@ -64,5 +64,5 @@ By diligently following these guidelines and customizing your approach to suit y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM1MTc4MTg3XX0=
+eyJoaXN0b3J5IjpbMTY0NjYzMzA2NV19
 -->
