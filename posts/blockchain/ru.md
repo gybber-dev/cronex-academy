@@ -2,10 +2,10 @@
 
 title: "Блокчейн"
 level: "beginner"
-coverImage: "cover.png"
+coverImage: "/assets/blog/blockchain/cover.jpg"
 date: "2023-08-06T05:35:07.322Z"
 ogImage:
-url: "cover.png"
+  url: "cover.png"
 
 ---
 # Блокчейн
@@ -53,5 +53,6 @@ RPoW можно считать одним из ранних прототипов
 
 h [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1NTk2MTQ0LDUzMTI1MzgxNl19
+eyJoaXN0b3J5IjpbLTEzOTk5Njk2Myw5OTU1OTYxNDQsNTMxMj
+UzODE2XX0=
 -->
