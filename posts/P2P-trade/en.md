@@ -29,7 +29,11 @@ Moreover, P2P exchanges utilize an escrow service, which temporarily holds the c
 
 In case of disputes, parties can file an appeal or reach out to the exchange's customer support for conflict resolution. It's important, however, to file an appeal within the order processing timeframe to participate in the dispute resolution process.
 
+## Advantages of P2P Trading
+
+### Global Market Access
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTI3MjA1Nl19
+eyJoaXN0b3J5IjpbLTIwMDQ1NDQ4Nl19
 -->
