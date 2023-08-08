@@ -3,7 +3,7 @@
 
 title: "Blockchain"
 level: "beginner"
-coverImage: "cover.png"
+coverImage: "/assets/blog/bull-market/cover.jpg"
 date: "2023-08-06T05:35:07.322Z"
 ogImage:
   url: "cover.png"
@@ -24,6 +24,6 @@ Although blockchain technology predates the widespread adoption of cryptocurrenc
 
 Beyond its role in recording cryptocurrency transactions, blockchain's versatility extends to various digital data applications, establishing it as a transformative and influential technology. The oldest, most secure, and popular blockchain network remains Bitcoin, a testament to the robustness and reliability that cryptographic principles and game theory can provide.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjEzMTkwNSw0OTc4MTg4MTAsNzMwOT
-k4MTE2XX0=
+eyJoaXN0b3J5IjpbMjA5MTczMTQ2LC02MjYxMzE5MDUsNDk3OD
+E4ODEwLDczMDk5ODExNl19
 -->
