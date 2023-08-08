@@ -1,5 +1,5 @@
 ---
-title: "Стратегии торговли криптовалютами"
+title: "cryptocurrency-trading"
 level: "beginner"
 coverImage: "/assets/blog/cryptocurrency-trading/cover.jpg"
 date: "2022-02-20T05:35:07.322Z"
@@ -110,5 +110,5 @@ Ultimately, the choice and development of a trading strategy is a personal proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNjAwMDk5OV19
+eyJoaXN0b3J5IjpbODAwMDY3NzE4LDIxMjYwMDA5OTldfQ==
 -->
