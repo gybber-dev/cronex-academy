@@ -87,6 +87,12 @@ Should another user express interest in your proposal, they can forward a trade 
 
 Through the establishment of your pricing, you can secure an advantageous position if your designated price surpasses the prevailing market rate. To illustrate, if you introduce a buy Bitcoin listing at $20,000 and a sell Bitcoin listing at $20,200, you stand to gain $200 for each exchanged Bitcoin. This endows you with adaptability and authority over trades, affording you the ability to generate profit from divergences in asset prices.
 
+## Arbitrage Risks
+While arbitrage presents the potential for profit, it also carries specific risks and expenses that traders must take into account. For instance, fluctuations in exchange rates can lead to a devaluation of the asset, and if a trader fails to sell the asset on another market before its value decreases, they may face financial losses.
+
+Moreover, bank charges for transferring assets between markets can erode the gains from arbitrage transactions. Additionally, the transaction's inherent costs and the possible losses from unprofitable investments should be factored in.
+
+In essence, arbitrage provides an avenue for capitalizing on price discrepancies across exchanges, yet it demands meticulous assessment and consideration of all associated risks and expenditures. This strategy could prove appealing to adept traders who possess a profound comprehension of market dynamics and can proficiently manage their investment portfolio.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI0OTE3MTZdfQ==
+eyJoaXN0b3J5IjpbLTE4MjAwNTYyMTVdfQ==
 -->
