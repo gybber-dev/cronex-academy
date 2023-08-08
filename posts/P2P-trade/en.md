@@ -48,8 +48,10 @@ The escrow service on certain P2P cryptocurrency exchanges ensures transaction s
 Furthermore, on P2P exchanges, transactions must be completed within a specified timeframe. If a buyer fails to make a fiat payment within the designated period, their order is automatically canceled, and the cryptocurrency is returned to the seller's wallet. This ensures discipline and timely transaction execution.
 
 ### Customized Offers
+Within P2P exchanges, vendors and purchasers wield full authority over the parameters of the transaction. Vendors retain the ability to establish the sale price, conversion rate, payment mode, and the quantity of the asset they intend to sell. Conversely, buyers possess the capability to articulate their inclinations concerning price, payment method, and the volume they aim to acquire.
 
+Upon mutual consent to the stipulations, both parties can effectuate a transaction custom-tailored to their distinct necessities and inclinations. This empowerment allows users to configure transactions to align with their particular prerequisites, facilitating a more individualized trading encounter.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4ODgzNTgxMV19
+eyJoaXN0b3J5IjpbODY1MTUwMjUwXX0=
 -->
