@@ -52,6 +52,16 @@ Within P2P exchanges, vendors and purchasers wield full authority over the param
 
 Upon mutual consent to the stipulations, both parties can effectuate a transaction custom-tailored to their distinct necessities and inclinations. This empowerment allows users to configure transactions to align with their particular prerequisites, facilitating a more individualized trading encounter.
 
+## Drawbacks of P2P Trading
+
+### Slower Transaction Speed
+
+One of the drawbacks of P2P trading is its relatively slower transaction speed compared to traditional trading platforms. While P2P transactions can be nearly instantaneous once confirmed by both parties, delays can occur if one party does not immediately confirm the transaction. In comparison to traditional exchanges, where trades can be executed automatically without delays, this process might take more time on P2P exchanges.
+
+### Limited Liquidity
+
+P2P exchanges typically exhibit lower liquidity compared to centralized exchanges. This is due to the fact that trading volumes on P2P platforms can be constrained by the number of users and available offers. If you're planning to engage in large transactions, you might find it more convenient to utilize over-the-counter (OTC) deals or resort to a standard centralized exchange, where higher liquidity is usually provided.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY1MTUwMjUwXX0=
+eyJoaXN0b3J5IjpbLTEwMTg2ODM2NjddfQ==
 -->
