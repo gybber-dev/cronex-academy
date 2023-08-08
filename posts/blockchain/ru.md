@@ -2,10 +2,10 @@
 
 title: "Блокчейн"
 level: "beginner"
-coverImage: "/assets/blog/blockchain/cover.jpg"
+coverImage: "/assets/blog/blockchain/cover.png"
 date: "2023-08-06T05:35:07.322Z"
 ogImage:
-  url: "cover.png"
+  url: "/assets/blog/blockchain/cover.png"
 
 ---
 # Блокчейн
