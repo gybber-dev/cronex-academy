@@ -1,3 +1,12 @@
+---
+title: "What is EOS"
+level: "beginner"
+coverImage: "/assets/blog/What is a cryptocurrency/cover.png"
+date: "2022-02-20T05:35:07.322Z"
+ogImage:
+  url: "/assets/blog/What is a cryptocurrency/cover.png"
+---
+
 # Hello
 
 Welcome to Cronex Academy! We will tell you about the possibilities of cryptocurrencies and blockchain technology.
@@ -55,5 +64,5 @@ By diligently following these guidelines and customizing your approach to suit y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMjE3MTM1XX0=
+eyJoaXN0b3J5IjpbNzM1MTc4MTg3XX0=
 -->
