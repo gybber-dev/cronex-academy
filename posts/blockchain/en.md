@@ -40,7 +40,15 @@ Built upon the Hashcash algorithm, the Bitcoin system differed from the RPoW pro
 January 3, 2009 marked the birth of Bitcoin, as Satoshi Nakamoto successfully "mined" the first block of Bitcoins, earning a reward of 50 Bitcoins. The inaugural Bitcoin transaction occurred on January 12, 2009, when Satoshi Nakamoto sent 10 Bitcoins to Hal Finney, establishing Hal Finney as the world's first recipient of Bitcoin.
 
 ### Ethereum
+
+In 2013, Vitalik Buterin, a programmer and one of the founders of the "Bitcoin Magazine," articulated the idea that Bitcoin needed a scripting language to facilitate the creation of decentralized applications. Since his proposal did not garner support from the community, Vitalik decided to develop his own distributed computational platform based on blockchain technology. This led to the birth of Ethereum, which introduced the concept of smart contracts.
+
+Smart contracts in Ethereum are programs or scripts that run on the blockchain. They enable automatic transactions based on specific conditions being met. Smart contracts are written in specialized programming languages, compiled into bytecode, and then executed on a decentralized Turing-complete virtual machine known as the Ethereum Virtual Machine (EVM).
+
+Developers can also create and deploy decentralized applications (DApps) on the Ethereum platform. These applications operate within the blockchain ecosystem, and there are already numerous DApps available, including social networks, gaming applications, and financial exchanges.
+
+The cryptocurrency associated with Ethereum is called Ether (ETH). It can be transferred between accounts and is utilized to pay for fees associated with utilizing computational resources for executing smart contracts.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MDI0NjI2OSwtNjI2MTMxOTA1LDQ5Nz
+eyJoaXN0b3J5IjpbMTIwNzYwOTcwOCwtNjI2MTMxOTA1LDQ5Nz
 gxODgxMCw3MzA5OTgxMTZdfQ==
 -->
