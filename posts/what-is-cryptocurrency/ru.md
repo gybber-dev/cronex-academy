@@ -1,3 +1,11 @@
+---
+title: "What is EOS"
+level: "beginner"
+coverImage: "/assets/blog/what-is-eos/cover.png"
+date: "2022-02-20T05:35:07.322Z"
+ogImage:
+  url: "/assets/blog/what-is-eos/cover.png"
+---
 # привет  
 
 Добро пожаловать в Cronex Academy! Мы расскажем вам о возможностях криптовалюты и технологии блокчейн.
@@ -52,5 +60,5 @@
 Следуя этим советам, вы можете повысить уровень безопасности при инвестировании в криптовалюты и принять осознанные решения, минимизируя возможные риски.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjUxMjgzNl19
+eyJoaXN0b3J5IjpbLTE3ODE4Mjg0OTJdfQ==
 -->
