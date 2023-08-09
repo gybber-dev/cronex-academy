@@ -1,10 +1,10 @@
 ---
 title: "What is a cryptocurrency"
 level: "beginner"
-coverImage: "/assets/blog/What is a cryptocurrency/cover.png"
+coverImage: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 date: "2022-02-20T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/What is a cryptocurrency/cover.png"
+  url: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 ---
 
 # Hello
