@@ -5,6 +5,11 @@ coverImage: "/assets/blog/setting-personal-financial-goals/cover.png"
 date: "2023-08-08T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/p2p-trade/cover.png"
+tags: 
+- psychology
+- bitcoin
+- blockchain
+- trade
 ---
 # Setting Personal Financial Goals and Achieving Them
 
@@ -85,5 +90,5 @@ If your ambition is to realize your financial aspirations through cryptocurrency
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNjM5ODMwMF19
+eyJoaXN0b3J5IjpbNjc1ODA1MjA4LC0zMDYzOTgzMDBdfQ==
 -->
