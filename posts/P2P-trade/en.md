@@ -1,5 +1,5 @@
 ---
-title: "Что такое P2P-торговля"
+title: "What is P2P Trading"
 level: "beginner"
 coverImage: "/assets/blog/P2P-trade/cover.png"
 date: "2023-08-08T05:35:07.322Z"
@@ -110,5 +110,6 @@ P2P exchanges extend a gateway to the global marketplace and present a diverse a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5OTI2Mjk5MywxNTc5MzI3NDM3XX0=
+eyJoaXN0b3J5IjpbMjAzOTAxNDAzMiwxMzk5MjYyOTkzLDE1Nz
+kzMjc0MzddfQ==
 -->
