@@ -1,10 +1,10 @@
 ---
 title: "What is P2P Trading"
 level: "beginner"
-coverImage: "/assets/blog/P2P-trade/cover.png"
+coverImage: "/assets/blog/p2p-trade/cover.png"
 date: "2023-08-08T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/P2P-trade/cover.png"
+  url: "/assets/blog/p2p-trade/cover.png"
 ---
 # What is P2P Trading and How to Use It
 
@@ -110,6 +110,6 @@ P2P exchanges extend a gateway to the global marketplace and present a diverse a
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY0MTUwNTYsMTM5OTI2Mjk5MywxNT
-c5MzI3NDM3XX0=
+eyJoaXN0b3J5IjpbMTg1NTgzMTg1NiwxMzk5MjYyOTkzLDE1Nz
+kzMjc0MzddfQ==
 -->
