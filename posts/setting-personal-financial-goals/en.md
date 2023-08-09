@@ -1,7 +1,7 @@
 ---
-title: "What is P2P Trading"
+title: "Setting personal financial goals"
 level: "beginner"
-coverImage: "/assets/blog/p2p-trade/cover.png"
+coverImage: "/assets/blog/setting-personal-financial-goals/cover.png"
 date: "2023-08-08T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/p2p-trade/cover.png"
@@ -85,5 +85,5 @@ If your ambition is to realize your financial aspirations through cryptocurrency
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNDcxODIyMV19
+eyJoaXN0b3J5IjpbLTMwNjM5ODMwMF19
 -->
