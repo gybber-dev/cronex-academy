@@ -5,9 +5,9 @@ coverImage: "/assets/blog/blockchain/cover.png"
 date: "2023-08-06T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/blockchain/cover.png"
-
 ---
 # Блокчейн
+
   
 Блокчейн - это база данных, которая имеет несколько особенностей. Во-первых, данные в блокчейне не могут быть изменены, они могут только добавляться. Во-вторых, каждая запись в блокчейне связана с предыдущей записью с использованием криптографического отпечатка. Таким образом, блоки образуют непрерывную цепочку, известную как блокчейн.
 
@@ -49,6 +49,6 @@ RPoW можно считать одним из ранних прототипов
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzc0NTI5ODEsMTI1MDY2NDI4LDk5NT
-U5NjE0NCw1MzEyNTM4MTZdfQ==
+eyJoaXN0b3J5IjpbOTI0MDM2OTY3LDEyNTA2NjQyOCw5OTU1OT
+YxNDQsNTMxMjUzODE2XX0=
 -->
