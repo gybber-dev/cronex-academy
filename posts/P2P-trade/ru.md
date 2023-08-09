@@ -1,10 +1,10 @@
 ---
 title: "Что такое P2P-торговля"
 level: "beginner"
-coverImage: "/assets/blog/P2P-trade/cover.png"
+coverImage: "/assets/blog/p2p-trade/cover.png"
 date: "2023-08-08T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/wallet/cover.png"
+  url: "/assets/blog/p2p-trade/cover.png"
 ---
 # Что такое P2P-торговля и как ее использовать
 ## Введение 
@@ -100,5 +100,6 @@ P2P-торговля представляет собой без посредни
 P2P-биржи предоставляют доступ к глобальному рынку и обеспечивают множество вариантов оплаты, включая наличные расчеты. В то же время, P2P-транзакции могут быть немного медленнее и менее ликвидными по сравнению с централизованными биржами. Однако, если вы готовы подождать и хотите персонализировать свои сделки, P2P-торговля может предоставить вам возможности для арбитража и других выгодных операций.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NDk4NjgzNiwtMTUzMDE5MTUzN119
+eyJoaXN0b3J5IjpbNzYzNzA0MDg2LDE2NjQ5ODY4MzYsLTE1Mz
+AxOTE1MzddfQ==
 -->
