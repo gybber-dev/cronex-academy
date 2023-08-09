@@ -2,9 +2,9 @@
 title: "Setting personal financial goals"
 level: "beginner"
 coverImage: "/assets/blog/setting-personal-financial-goals/cover.png"
-date: "2023-08-08T05:35:07.322Z"
+date: "2023-09-08T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/p2p-trade/cover.png"
+  url: "/assets/blog/setting-personal-financial-goals/cover.png"
 tags: 
 - psychology
 - trade
@@ -88,5 +88,6 @@ If your ambition is to realize your financial aspirations through cryptocurrency
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NTMyMTY4MiwtMzA2Mzk4MzAwXX0=
+eyJoaXN0b3J5IjpbLTE2ODM1ODc4NjYsMTk5NTMyMTY4MiwtMz
+A2Mzk4MzAwXX0=
 -->
