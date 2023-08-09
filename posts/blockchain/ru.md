@@ -1,5 +1,4 @@
 ---
-
 title: "Блокчейн"
 level: "beginner"
 coverImage: "/assets/blog/blockchain/cover.png"
@@ -50,6 +49,6 @@ RPoW можно считать одним из ранних прототипов
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDY2NDI4LDk5NTU5NjE0NCw1MzEyNT
-M4MTZdfQ==
+eyJoaXN0b3J5IjpbLTEwMzc0NTI5ODEsMTI1MDY2NDI4LDk5NT
+U5NjE0NCw1MzEyNTM4MTZdfQ==
 -->
