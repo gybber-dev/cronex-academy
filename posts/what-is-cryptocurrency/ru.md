@@ -1,11 +1,10 @@
-
 ---
 title: "Что такое криптовалюта"
 level: "beginner"
-coverImage: "/assets/blog/What is a cryptocurrency/cover.png"
+coverImage: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 date: "2022-02-20T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/What is a cryptocurrency/cover.png"
+  url: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 ---
 ть в Cronex Academy! Мы расскажем вам о возможностях криптовалюты и технологии блокчейн.
 
@@ -59,5 +58,5 @@ ogImage:
 Следуя этим советам, вы можете повысить уровень безопасности при инвестировании в криптовалюты и принять осознанные решения, минимизируя возможные риски.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MDkyMDYxMV19
+eyJoaXN0b3J5IjpbMTY5NjgyNTEwOSwtNDcwOTIwNjExXX0=
 -->
