@@ -1,13 +1,10 @@
 ---
-
-title: "cTrading Strategies for Cryptocurrenc"
+title: "Trading Strategies for Cryptocurrencies"
 level: "beginner"
-
-coverImage: "/assets/blog/cryptocurrency-trading/cover.jpg"date: "2022-02-20T05:35:07.322Z"
-
+coverImage: "/assets/blog/cryptocurrency-trading/cover.jpg"
+date: "2022-02-20T05:35:07.322Z"
 ogImage:
-
-url: "/assets/blog/cryptocurrency-trading/cover.jpg"
+  url: "/assets/blog/cryptocurrency-trading/cover.jpg"
 ---
 
 # A Guide for Beginners: Trading Strategies for Cryptocurrencies
@@ -113,6 +110,6 @@ Ultimately, the choice and development of a trading strategy is a personal proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODU3MTM3MCwtMTA2MjEzNDk2MSw4MD
-AwNjc3MTgsMjEyNjAwMDk5OV19
+eyJoaXN0b3J5IjpbLTE3MTY1ODg2NjQsMTQ3ODU3MTM3MCwtMT
+A2MjEzNDk2MSw4MDAwNjc3MTgsMjEyNjAwMDk5OV19
 -->
