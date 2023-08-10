@@ -38,10 +38,22 @@ CEX provides newcomers with a user-friendly interface and an easier way to initi
 
 **Liquidity Issues** Typically, DEX offer lower liquidity and trading volumes compared to large CEX. Additionally, the market depth on DEX is limited, and significant trades on such exchanges can impact prices substantially. Unlike CEX, where large orders have less impact on price due to a deeper order book, as seen on Cronex, for instance.
 
+## CEX vs DEX: Making the Right Choice
 
+The decision between CEX and DEX relies on your objectives and familiarity with crypto trading. For those who are new to the scene, starting with centralized exchanges (CEX) often proves to be the more favorable path. These platforms offer a user-friendly and intuitive interface that doesn't demand extensive learning. Additionally, CEX customer support is readily available to provide assistance should any issues arise.
 
+By utilizing CEX, the chances of committing substantial errors, such as losing access to funds or executing incorrect transactions, are minimized. If you're embarking on your cryptocurrency journey or seeking access to a straightforward and hassle-free service, CEX stands as the optimal selection.
 
+Alternatively, DEX opens up the doors to the expansive world of decentralized finance (DeFi). Creating a wallet on Ethereum's Virtual Machine (EVM) blockchain grants you the ability to explore a plethora of opportunities within this realm. DEX caters to free cryptocurrency trading and can be an excellent fit if you're interested in investing in novel projects boasting modest market capitalization. While CEX may also introduce novel tokens, DEX remains a hub where most new coins commence their trajectory, attracting liquidity.
 
+In summation, your choice between the two exchange types should be driven by your specific objectives and needs, ensuring a fitting platform for your trading and investment pursuits.
+
+| CEX  | DEX |
+| ------------- | ------------- |
+|  Convenient Access to Buying and Selling Cryptocurrency with Fiat Money             |               |
+|               |               |
+|               |               |
+|               |               |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3Mjg2NjE4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMjA0NDIxMzU4MCw3MzA5OTgxMTZdfQ==
 -->
