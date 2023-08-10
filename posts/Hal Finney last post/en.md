@@ -1,10 +1,12 @@
 ---
 title: "Hal Finney last post"
 level: "beginner"
-coverImage: "/assets/blog/mining/cover.jpg"
-date: "2022-02-20T05:35:07.322Z"
+coverImage: "/assets/blog/Hal-Finney-last-post/cover.jpg"
+date: "2023-10-08T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/mining/cover.jpg"
+tags:
+-news
+  url: "/assets/blog/Hal-Finney-last-post/cover.jpg"
 ---
 
 I thought I'd write about the last four years, an eventful time for Bitcoin and me.
@@ -39,5 +41,5 @@ And of course the price gyrations of bitcoins are entertaining to me. I have ski
 
 That's my story. I'm pretty lucky overall. Even with the ALS, my life is very satisfying. But my life expectancy is limited. Those discussions about inheriting your bitcoins are of more than academic interest. My bitcoins are stored in our safe deposit box, and my son and daughter are tech savvy. I think they're safe enough. I'm comfortable with my legacy.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5NjQ3MTI1XX0=
+eyJoaXN0b3J5IjpbLTg4NTYyNjcyOCw2NDk2NDcxMjVdfQ==
 -->
