@@ -32,6 +32,8 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 **Проблемы с ликвидностью** Обычно DEX предлагают меньшую ликвидность и объемы, чем крупные CEX. Также глубина рынка на DEX ограничена, и большие сделки на таких биржах могут существенно повлиять на цену. В отличие от CEX, где большие ордера не так сильно влияют на цену из-за более глубокой книги ордеров, такой как у Cronex.
 
+## CEX или  DEX
+
 
 | CEX  | DEX |
 | ------------- | ------------- |
@@ -47,8 +49,8 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDYwNTYyMywtNzM2MDQ5ODAwLDEwNj
-A2MjUzMTgsLTgzODE5MTg1NywyOTUxMjM2NzQsNTk2OTQ3NDA0
-LDEyNzM1ODI1MjEsNTU3MDExODA5LC04NTY2NTM3MzQsNzI1ND
-M5MzU3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwMjk4Mzk2MTEsLTk4NDYwNTYyMywtNz
+M2MDQ5ODAwLDEwNjA2MjUzMTgsLTgzODE5MTg1NywyOTUxMjM2
+NzQsNTk2OTQ3NDA0LDEyNzM1ODI1MjEsNTU3MDExODA5LC04NT
+Y2NTM3MzQsNzI1NDM5MzU3LC0yMDg4NzQ2NjEyXX0=
 -->
