@@ -44,14 +44,7 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 | CEX  | DEX |
 | ------------- | ------------- |
-|   
-Простой доступ к покупке и продаже 
-криптовалюты за фиатные деньги  |   
-  
-
-Приобретение монет и токенов с 
-невысокой рыночной капитализацией, 
-которые возможно недоступны на других торговых платформах |
+|   Простой доступ к покупке и продаже криптовалюты за фиатные деньги  | Приобретение монет и токенов с невысокой рыночной капитализацией, которые возможно недоступны на других торговых платформах |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
@@ -63,9 +56,9 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU5OTI3MDA5LC05ODI4NTMwODgsLTEwMj
-k4Mzk2MTEsLTk4NDYwNTYyMywtNzM2MDQ5ODAwLDEwNjA2MjUz
-MTgsLTgzODE5MTg1NywyOTUxMjM2NzQsNTk2OTQ3NDA0LDEyNz
-M1ODI1MjEsNTU3MDExODA5LC04NTY2NTM3MzQsNzI1NDM5MzU3
-LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTIwODk0Mzk3MjEsLTk4Mjg1MzA4OCwtMT
+AyOTgzOTYxMSwtOTg0NjA1NjIzLC03MzYwNDk4MDAsMTA2MDYy
+NTMxOCwtODM4MTkxODU3LDI5NTEyMzY3NCw1OTY5NDc0MDQsMT
+I3MzU4MjUyMSw1NTcwMTE4MDksLTg1NjY1MzczNCw3MjU0Mzkz
+NTcsLTIwODg3NDY2MTJdfQ==
 -->
