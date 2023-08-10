@@ -5,8 +5,7 @@ coverImage: "/assets/blog/mining/cover.jpg"
 date: "2022-02-20T05:35:07.322Z"
 ogImage:
 tags:
-- cryptoexchanges  
-- 
+- technology
   url: "/assets/blog/mining/cover.jpg"
 ---
 
@@ -69,5 +68,5 @@ In summation, your choice between the two exchange types should be driven by you
 | Utilizing a variety of products directly on centralized exchanges (CEX)| Having access to a wide range of DeFi products on multiple blockchains through centralized exchanges. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTg4MTEyMjBdfQ==
+eyJoaXN0b3J5IjpbMTc0OTcwNzE0OF19
 -->
