@@ -7,7 +7,7 @@ ogImage:
   url: "/assets/blog/setting-personal-financial-goals/cover.png"
 tags: 
 - psychology
-- tradep2p-trade/cover.png"
+- trade
 ---
 # Как ставить личные финансовые цели и достигать их
 
@@ -97,5 +97,6 @@ Based on your preferences, current requirements, and priorities, opt for the mos
 
 Maintain in mind that it's unwise to hastily seize each financial opportunity, including cryptocurrencies and other instruments. Striving for elevated gains with substantial risks can yield unfavorable results and diminish the probability of attaining your aims. Always make prudent and reflective choices, grounded in your financial acumen and objectives.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUyMzY5NTI0LDU5OTQ4NTY2N119
+eyJoaXN0b3J5IjpbLTE0OTQ4Njk2NTgsNTUyMzY5NTI0LDU5OT
+Q4NTY2N119
 -->
