@@ -52,7 +52,8 @@ In summation, your choice between the two exchange types should be driven by you
 | ------------- | ------------- |
 |  Convenient Access to Buying and Selling Cryptocurrency with Fiat Money | Acquiring coins and tokens with low market capitalization that might not be available on other trading platforms |
 |No need for storing and managing private keys | Complete control over cryptocurrencies | 
-|Ability to trade on high-liquidity markets with minimal slippage       |    Opportunity to earn a share of transaction fees for liquidity providers  |.  |               |               |
+|Ability to trade on high-liquidity markets with minimal slippage       |    Opportunity to earn a share of transaction fees for liquidity providers  
+| Access to customer support for resolving issues  | Decentralized services with low fees         |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQwNDU4MjIyLDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTc3MDU3NzM2OSw3MzA5OTgxMTZdfQ==
 -->
