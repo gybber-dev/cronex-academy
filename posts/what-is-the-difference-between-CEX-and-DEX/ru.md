@@ -1,10 +1,10 @@
 ---
 title: "Чем отличаются CEX и DEX"
 level: "beginner"
-coverImage: "/assets/blog/mining/cover.jpg"
-date: "2022-02-20T05:35:07.322Z"
+coverImage: "/assets/blog/what-is-the-difference-between-CEX-and-DEX/cover.jpg"
+date: "2023-10-08T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/mining/cover.jpg"
+  url: "/assets/blog/what-is-the-difference-between-CEX-and-DEX/cover.jpg"
 tags:
 - technology
 ---
@@ -67,5 +67,5 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUxMDcwMjQ4XX0=
+eyJoaXN0b3J5IjpbMjQzMDQ4MjM2XX0=
 -->
