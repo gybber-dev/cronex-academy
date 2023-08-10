@@ -37,6 +37,9 @@ CEX обеспечивает новичкам удобный интерфейс 
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 
 
@@ -44,7 +47,7 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTkxNDM5NSwtNzM2MDQ5ODAwLDEwNj
+eyJoaXN0b3J5IjpbLTk4NDYwNTYyMywtNzM2MDQ5ODAwLDEwNj
 A2MjUzMTgsLTgzODE5MTg1NywyOTUxMjM2NzQsNTk2OTQ3NDA0
 LDEyNzM1ODI1MjEsNTU3MDExODA5LC04NTY2NTM3MzQsNzI1ND
 M5MzU3LC0yMDg4NzQ2NjEyXX0=
