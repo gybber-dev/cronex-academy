@@ -1,5 +1,5 @@
 ---
-title: "Как ставить личные финансовые целиWhat is P2P Trading"
+title: "Как ставить личные финансовые цели"
 level: "beginner"
 coverImage: "/assets/blog/setting-personal-financial-goals/cover.png"
 date: "2023-098-08T05:35:07.322Z"
@@ -97,6 +97,6 @@ Based on your preferences, current requirements, and priorities, opt for the mos
 
 Maintain in mind that it's unwise to hastily seize each financial opportunity, including cryptocurrencies and other instruments. Striving for elevated gains with substantial risks can yield unfavorable results and diminish the probability of attaining your aims. Always make prudent and reflective choices, grounded in your financial acumen and objectives.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTQ4Njk2NTgsNTUyMzY5NTI0LDU5OT
-Q4NTY2N119
+eyJoaXN0b3J5IjpbMTA3NjIxNDA0Myw1NTIzNjk1MjQsNTk5ND
+g1NjY3XX0=
 -->
