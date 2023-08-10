@@ -1,5 +1,4 @@
 ---
-
 title: "What is a bear market?"
 level: "beginner"
 coverImage: "/assets/blog/bear-market/cover.jpg"
