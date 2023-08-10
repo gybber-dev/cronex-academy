@@ -47,7 +47,8 @@ CEX обеспечивает новичкам удобный интерфейс 
 | Простой доступ к покупке и продаже криптовалюты за фиатные деньги  | Приобретение монет и токенов с невысокой рыночной капитализацией, которые возможно недоступны на других торговых платформах |
 | Не требуется сохранение и управление приватными ключами  | Абсолютное управление над криптовалютой  |
 | Возможность торговать на высоколиквидных рынках с минимальным проскальзыванием  | Возможность получения доли комиссий за транзакции для провайдеров ликвидности  |
-| Content Cell  | Content Cell  |
+| Возможность обращения к службе поддержки для решения возникших проблем | Сервисы, децентрализованные и с низкими комиссиями  |
+| Использование разнообразных продуктов непосредственно на централизованных биржах (CEX)  |   |
 
 
 
@@ -56,9 +57,9 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQwOTUxMzQsLTk4Mjg1MzA4OCwtMTAyOT
-gzOTYxMSwtOTg0NjA1NjIzLC03MzYwNDk4MDAsMTA2MDYyNTMx
-OCwtODM4MTkxODU3LDI5NTEyMzY3NCw1OTY5NDc0MDQsMTI3Mz
-U4MjUyMSw1NTcwMTE4MDksLTg1NjY1MzczNCw3MjU0MzkzNTcs
-LTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjAzMzc4ODM1OSwtOTgyODUzMDg4LC0xMD
+I5ODM5NjExLC05ODQ2MDU2MjMsLTczNjA0OTgwMCwxMDYwNjI1
+MzE4LC04MzgxOTE4NTcsMjk1MTIzNjc0LDU5Njk0NzQwNCwxMj
+czNTgyNTIxLDU1NzAxMTgwOSwtODU2NjUzNzM0LDcyNTQzOTM1
+NywtMjA4ODc0NjYxMl19
 -->
