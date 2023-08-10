@@ -48,7 +48,7 @@ CEX обеспечивает новичкам удобный интерфейс 
 | Не требуется сохранение и управление приватными ключами  | Абсолютное управление над криптовалютой  |
 | Возможность торговать на высоколиквидных рынках с минимальным проскальзыванием  | Возможность получения доли комиссий за транзакции для провайдеров ликвидности  |
 | Возможность обращения к службе поддержки для решения возникших проблем | Сервисы, децентрализованные и с низкими комиссиями  |
-| Использование разнообразных продуктов непосредственно на централизованных биржах (CEX)  | Иметь доступ к широкому спектру продуктов DeFi на нескольких блокчейнах через централизованные биржи.  |
+| Использование разнообразных продуктов непосредственно на централизованных биржах (CEX)  | Иметь доступ к широкому спектру продуктов DeFi на нескольких блокчейнах через централизованные биржи.|
 
 
 
@@ -57,9 +57,9 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTA1NDk3NiwtOTgyODUzMDg4LC0xMD
-I5ODM5NjExLC05ODQ2MDU2MjMsLTczNjA0OTgwMCwxMDYwNjI1
-MzE4LC04MzgxOTE4NTcsMjk1MTIzNjc0LDU5Njk0NzQwNCwxMj
-czNTgyNTIxLDU1NzAxMTgwOSwtODU2NjUzNzM0LDcyNTQzOTM1
-NywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjA1NjA1ODQ5NiwxMjU1MDU0OTc2LC05OD
+I4NTMwODgsLTEwMjk4Mzk2MTEsLTk4NDYwNTYyMywtNzM2MDQ5
+ODAwLDEwNjA2MjUzMTgsLTgzODE5MTg1NywyOTUxMjM2NzQsNT
+k2OTQ3NDA0LDEyNzM1ODI1MjEsNTU3MDExODA5LC04NTY2NTM3
+MzQsNzI1NDM5MzU3LC0yMDg4NzQ2NjEyXX0=
 -->
