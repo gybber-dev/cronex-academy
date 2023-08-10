@@ -5,10 +5,7 @@ coverImage: "/assets/blog/hatisacryptocurrency/cover.png"
 date: "2022-02-20T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/hatisacryptocurrency/cover.png"
-tags:
-- one
-- two
-- three
+
 ---
 
 # Hello
@@ -68,5 +65,5 @@ By diligently following these guidelines and customizing your approach to suit y
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzI4MDc5OSwxNjQ2NjMzMDY1XX0=
+eyJoaXN0b3J5IjpbLTEzODM5NDQ2ODcsMTY0NjYzMzA2NV19
 -->
