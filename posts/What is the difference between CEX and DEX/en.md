@@ -4,9 +4,9 @@ level: "beginner"
 coverImage: "/assets/blog/mining/cover.jpg"
 date: "2022-02-20T05:35:07.322Z"
 ogImage:
+  url: "/assets/blog/mining/cover.jpg"
 tags:
 - technology
-  url: "/assets/blog/mining/cover.jpg"
 ---
 
 # Introduction

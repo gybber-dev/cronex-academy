@@ -6,8 +6,8 @@ date: "2023-10-08T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/hal-finney-last-post/cover.png"
 tags:
--news
--bitcoin
+- news
+- bitcoin
 
 ---
 

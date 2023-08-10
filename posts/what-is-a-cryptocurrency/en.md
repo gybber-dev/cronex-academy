@@ -5,6 +5,10 @@ coverImage: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 date: "2022-02-20T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-a-cryptocurrency/cover.png"
+tags:
+- one
+- two
+- three
 ---
 
 # Hello
