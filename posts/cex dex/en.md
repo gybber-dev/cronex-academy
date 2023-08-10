@@ -1,3 +1,12 @@
+---
+title: "Что такое майнинг?"
+level: "beginner"
+coverImage: "/assets/blog/mining/cover.jpg"
+date: "2022-02-20T05:35:07.322Z"
+ogImage:
+  url: "/assets/blog/mining/cover.jpg"
+---
+
 # Introduction
 
 If you have an interest in the world of cryptocurrencies, chances are you're already familiar with the concept of Decentralized Exchanges (DEX). Perhaps you're a user of centralized exchanges like Cronex, and you're either intrigued by the prospect of trading on DEX or looking to acquire a new DeFi coin not available on other centralized exchanges (CEX). Whatever your motivations, it's important to understand the fundamental differences between CEX and DEX in order to make an informed choice between them. Depending on your trading experience and goals, both these exchange types have their merits and drawbacks.
@@ -57,6 +66,6 @@ In summation, your choice between the two exchange types should be driven by you
 | Utilizing a variety of products directly on centralized exchanges (CEX)| Having access to a wide range of DeFi products on multiple blockchains through centralized exchanges. |
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc0Nzc5MTUsMTg5MTM2ODQzOSw3Mz
-A5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTUzOTA3MzExNywtMTQyNzQ3NzkxNSwxOD
+kxMzY4NDM5LDczMDk5ODExNl19
 -->
