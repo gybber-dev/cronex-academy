@@ -55,6 +55,8 @@ In summation, your choice between the two exchange types should be driven by you
 |Ability to trade on high-liquidity markets with minimal slippage       |    Opportunity to earn a share of transaction fees for liquidity providers  
 | Access to customer support for resolving issues  | Decentralized services with low fees |
 | Utilizing a variety of products directly on centralized exchanges (CEX)| Having access to a wide range of DeFi products on multiple blockchains through centralized exchanges. |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTM2ODQzOSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjc0Nzc5MTUsMTg5MTM2ODQzOSw3Mz
+A5OTgxMTZdfQ==
 -->
