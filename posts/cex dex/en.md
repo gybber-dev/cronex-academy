@@ -30,10 +30,18 @@ CEX provides newcomers with a user-friendly interface and an easier way to initi
 
 **Limited Control Over Assets** To use CEX, users must deposit their cryptocurrencies into the exchange's wallet. This means users give up control over their assets to the CEX and might not always be able to swiftly withdraw their funds. In case of the exchange's insolvency, users might lose access to their funds. This scenario is similar to keeping cash in a bank, where a bank robbery could result in customers losing their savings.
 
+## Disadvantages of Decentralized Exchanges (DEX)
+
+**Usage and Onboarding Complexity** Beginners might encounter difficulties when getting familiar with DEX due to challenges involving gas fees, interacting with liquidity pools, managing wallets, and the risk of slippage during trades. Learning the intricacies of DEX can take time, and effectively utilizing the exchange's tools requires skill mastery.
+
+**Lack of Fiat Gateways** Acquiring the first cryptocurrency or token on DEX can be challenging, as most decentralized exchanges don't support direct purchases using credit or debit cards. While some DEX offer the option of bank payments through third-party providers, it's not as prevalent as on CEX.
+
+**Liquidity Issues** Typically, DEX offer lower liquidity and trading volumes compared to large CEX. Additionally, the market depth on DEX is limited, and significant trades on such exchanges can impact prices substantially. Unlike CEX, where large orders have less impact on price due to a deeper order book, as seen on Cronex, for instance.
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Njg3MDI3OCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNzg3Mjg2NjE4LDczMDk5ODExNl19
 -->
