@@ -4,6 +4,8 @@ level: "beginner"
 coverImage: "/assets/blog/mining/cover.jpg"
 date: "2022-02-20T05:35:07.322Z"
 ogImage:
+tags:
+- technology
   url: "/assets/blog/mining/cover.jpg"
 ---
 # Вступление 
@@ -65,5 +67,5 @@ CEX обеспечивает новичкам удобный интерфейс 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDkwNjQyMl19
+eyJoaXN0b3J5IjpbMTgxMzQyMjM5Ml19
 -->
