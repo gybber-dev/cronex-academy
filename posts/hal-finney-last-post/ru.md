@@ -1,12 +1,12 @@
 ---
 title: "Хэл Финни последний пост"
 level: "beginner"
-coverImage: "/assets/blog/hal-finney-last-post/cover.pn"
+coverImage: "/assets/blog/hal-finney-last-post/cover.png"
 date: "2023-10-08T05:35:07.322Z"
 ogImage:
 tags:
 -news
-  url: "/assets/blog/hal-finney-last-post/cover.jpg"
+  url: "/assets/blog/hal-finney-last-post/cover.png"
 ---
 
 Я подумал, что напишу о последних четырех годах, богатом событиями для меня и Биткойна.
@@ -41,5 +41,5 @@ tags:
 
 Это моя история. Мне вообще повезло. Даже с БАС моя жизнь очень удовлетворительна. Но моя продолжительность жизни ограничена. Эти дискуссии о наследовании ваших биткойнов представляют не только академический интерес. Мои биткойны хранятся в нашем сейфе, а мой сын и дочь разбираются в технологиях. Я думаю, что они достаточно безопасны. Я доволен своим наследием.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0MDExODQ3XX0=
+eyJoaXN0b3J5IjpbLTE3MjE5NzE2MzZdfQ==
 -->
