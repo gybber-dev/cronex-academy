@@ -50,10 +50,10 @@ In summation, your choice between the two exchange types should be driven by you
 
 | CEX  | DEX |
 | ------------- | ------------- |
-|  Convenient Access to Buying and Selling Cryptocurrency with Fiat Money             |               |
-|               |               |
+|  Convenient Access to Buying and Selling Cryptocurrency with Fiat Money | Acquiring coins and tokens with low market capitalization that might not be available on other trading platforms |
+|    No need for storing and managing private keys           |               |
 |               |               |
 |               |               |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDIxMzU4MCw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTE5NjU3Mjg0ODMsNzMwOTk4MTE2XX0=
 -->
