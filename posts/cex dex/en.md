@@ -22,8 +22,16 @@ CEX provides newcomers with a user-friendly interface and an easier way to initi
 
 **Integrated Services** Centralized exchanges provide a wide range of integrated products and services, creating a comprehensive platform for trading, utilization, and storage of cryptocurrencies. On CEX, users gain access to various features, including trading, staking, NFT marketplaces, Launchpads, P2P exchanges, and more. These platforms also facilitate seamless fund transfers between different products and offer partner deals, such as those from Travala.
 
+## Disadvantages of Centralized Exchanges
+
+**Vulnerability to Attacks** Centralized exchanges (CEX), being large and centralized entities, are often targeted by hacking attacks. This can lead to the theft of users' funds stored on the exchange. Despite security efforts, the risk of hacks and theft persists, as evidenced by cases of breaches, including the well-known Mt. Gox exchange incident.
+
+**Additional Transaction Fees** Nearly every service provided on CEX involves transaction fees. Sometimes these fees are hidden or bundled into the service cost. This can reduce the competitiveness of CEX compared to more cost-effective decentralized exchanges (DEX). It's also important to consider the additional transaction fees on CEX compared to gas fees on DEX, which can be high in certain networks.
+
+**Limited Control Over Assets** To use CEX, users must deposit their cryptocurrencies into the exchange's wallet. This means users give up control over their assets to the CEX and might not always be able to swiftly withdraw their funds. In case of the exchange's insolvency, users might lose access to their funds. This scenario is similar to keeping cash in a bank, where a bank robbery could result in customers losing their savings.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTgzMjI4LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMzExNzI5MDYsNzMwOTk4MTE2XX0=
 -->
