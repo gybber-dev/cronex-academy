@@ -5,8 +5,8 @@ coverImage: "/assets/blog/bear-market/cover.jpg"
 date: "2022-02-20T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/bear-market/cover.png"
-
 ---
+
 ## Understanding the Bear Market
 
 Having a deep understanding of various market trends is essential for making well-informed investment choices. Market trends dictate the overall direction of price movements and being able to adapt to these shifts is crucial.
