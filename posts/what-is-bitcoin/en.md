@@ -2,9 +2,12 @@
 title: "What is Bitcoin?"
 level: "beginner"
 coverImage: "/assets/blog/what-is-bitcoin/cover.jpg"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-07-26T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-bitcoin/cover.jpg"
+tags:
+  - bitcoin
+  - cryptocurrency
 ---
 
 # What is Bitcoin?

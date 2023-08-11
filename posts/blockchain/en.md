@@ -5,6 +5,10 @@ coverImage: "/assets/blog/blockchain/cover.png"
 date: "2023-08-06T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/blockchain/cover.png"
+tags:
+  - blockchain
+  - technology
+  - bitcoin
 
 ---
 # Blockchain 

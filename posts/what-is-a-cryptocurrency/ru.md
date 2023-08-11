@@ -2,9 +2,11 @@
 title: "Что такое криптовалюта"
 level: "beginner"
 coverImage: "/assets/blog/what-is-a-cryptocurrency/cover.png"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-07-25T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-a-cryptocurrency/cover.png"
+tags:
+  - cryptocurrency
 ---
 Добро пожаловать в Cronex Academy! Мы расскажем вам о возможностях криптовалюты и технологии блокчейн.
 

@@ -2,9 +2,12 @@
 title: "Криптокошелек"
 level: "beginner"
 coverImage: "/assets/blog/wallet/cover.png"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-07-23T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/wallet/cover.png"
+tags:
+  - wallet
+  - cryptocurrency
 ---
 
 # Информация о криптокошельках

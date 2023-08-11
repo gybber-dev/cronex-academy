@@ -2,9 +2,12 @@
 title: "order types"
 level: "beginner"
 coverImage: "/assets/blog/order/cover.png"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-07-16T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/order/cover.png"
+tags:
+  - bitcoin
+  - trade
 ---
 
 # Types of Orders

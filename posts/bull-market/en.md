@@ -2,10 +2,11 @@
 title: "What is a Bull Market?"
 level: "beginner"
 coverImage: "/assets/blog/bull-market/cover.jpg"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-07-05T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/bull-market/cover.jpg"
-
+tags:
+  - trade
 ---
 # What is a Bull Market?
 

@@ -4,7 +4,7 @@ tags:
 - blockchain  
 - bitcoin  
 - ethereum  
-- stablecoins  
+- stablecoin
 - nfts  
 - trade  
 - smart contracts  
@@ -18,6 +18,7 @@ tags:
 - regulations  
 - psychology
 - technology
+- wallet
 
 ---
 

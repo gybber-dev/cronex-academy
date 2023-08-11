@@ -5,6 +5,9 @@ coverImage: "/assets/blog/P2P-trade/cover.png"
 date: "2023-08-08T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/wallet/cover.png"
+tags:
+  - peer-to-peer
+  - trade
 ---
 # Что такое P2P-торговля и как ее использовать
 ## Введение 

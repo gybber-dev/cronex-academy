@@ -2,9 +2,12 @@
 title: "Что такое треугольный арбитраж"
 level: "beginner"
 coverImage: "/assets/blog/triangular-arbitrage/cover.png"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-08-22T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/triangular-arbitrage/cover.png"
+tags:
+  - peer-to-peer
+  - trade
 ---
 
 # Что такое треугольный арбитраж и как его использовать

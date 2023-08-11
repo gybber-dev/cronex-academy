@@ -2,13 +2,12 @@
 title: "What is the difference between CEX and DEX"
 level: "beginner"
 coverImage: "/assets/blog/what-is-the-difference-between-CEX-and-DEX/cover.png"
-date: "2023-10-08T05:35:07.322Z"
+date: "2023-08-10T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-the-difference-between-CEX-and-DEX/cover.png"
 tags:
 - technology
 ---
-
 # Introduction
 
 If you have an interest in the world of cryptocurrencies, chances are you're already familiar with the concept of Decentralized Exchanges (DEX). Perhaps you're a user of centralized exchanges like Cronex, and you're either intrigued by the prospect of trading on DEX or looking to acquire a new DeFi coin not available on other centralized exchanges (CEX). Whatever your motivations, it's important to understand the fundamental differences between CEX and DEX in order to make an informed choice between them. Depending on your trading experience and goals, both these exchange types have their merits and drawbacks.
@@ -59,14 +58,10 @@ Alternatively, DEX opens up the doors to the expansive world of decentralized fi
 
 In summation, your choice between the two exchange types should be driven by your specific objectives and needs, ensuring a fitting platform for your trading and investment pursuits.
 
-| CEX  | DEX |
-| ------------- | ------------- |
-|  Convenient Access to Buying and Selling Cryptocurrency with Fiat Money | Acquiring coins and tokens with low market capitalization that might not be available on other trading platforms |
-|No need for storing and managing private keys | Complete control over cryptocurrencies | 
-|Ability to trade on high-liquidity markets with minimal slippage       |    Opportunity to earn a share of transaction fees for liquidity providers  
-| Access to customer support for resolving issues  | Decentralized services with low fees |
-| Utilizing a variety of products directly on centralized exchanges (CEX)| Having access to a wide range of DeFi products on multiple blockchains through centralized exchanges. |
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxODk5NjU2XX0=
--->
+| CEX                                                                     | DEX |
+|-------------------------------------------------------------------------| ------------- |
+| Convenient Access to Buying and Selling Cryptocurrency with Fiat Money  | Acquiring coins and tokens with low market capitalization that might not be available on other trading platforms |
+| No need for storing and managing private keys                           | Complete control over cryptocurrencies | 
+| Ability to trade on high-liquidity markets with minimal slippage        |    Opportunity to earn a share of transaction fees for liquidity providers  |
+| Access to customer support for resolving issues                         | Decentralized services with low fees |
+| Utilizing a variety of products directly on centralized exchanges (CEX) | Having access to a wide range of DeFi products on multiple blockchains through centralized exchanges. |

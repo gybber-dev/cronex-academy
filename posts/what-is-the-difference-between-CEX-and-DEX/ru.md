@@ -2,7 +2,7 @@
 title: "Чем отличаются CEX и DEX"
 level: "beginner"
 coverImage: "/assets/blog/what-is-the-difference-between-CEX-and-DEX/cover.png"
-date: "2023-10-08T05:35:07.322Z"
+date: "2023-08-10T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-the-difference-between-CEX-and-DEX/cover.png"
 tags:

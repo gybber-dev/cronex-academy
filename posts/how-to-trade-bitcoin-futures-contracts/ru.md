@@ -2,9 +2,12 @@
 title: "Как торговать фьючерсными контрактами на биткоин"
 level: "beginner"
 coverImage: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-07-11T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
+tags:
+  - trade
+  - bitcoin
 ---
 
 # Как торговать фьючерсными контрактами на биткоин

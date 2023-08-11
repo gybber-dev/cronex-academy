@@ -2,9 +2,11 @@
 title: "Stablecoins"
 level: "beginner"
 coverImage: "/assets/blog/stablecoin/cover.png"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-08-20T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/stablecoin/cover.png"
+tags:
+  - stablecoin
 ---
 
 # Introduction

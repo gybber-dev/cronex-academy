@@ -2,9 +2,13 @@
 title: "What is cryptocurrency mining?"
 level: "beginner"
 coverImage: "/assets/blog/mining/cover.jpg"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-07-15T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/mining/cover.jpg"
+tags:
+  - mining
+  - cryptocurrency
+  - bitcoin
 ---
 
 # What is Cryptocurrency Mining and How Does It Work?

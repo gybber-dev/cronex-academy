@@ -2,9 +2,12 @@
 title: "what is fiat currency?"
 level: "beginner"
 coverImage: "/assets/blog/what-is-fiat-currency/cover.png"
-date: "2022-02-20T05:35:07.322Z"
+date: "2023-07-30T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-fiat-currency/cover.png"
+tags:
+  - cryptocurrency
+
 ---
 
 # What is Fiat Currency?
