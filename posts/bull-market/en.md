@@ -1,12 +1,12 @@
 ---
 title: "What is a Bull Market?"
 level: "beginner"
-coverImage: "/assets/blog/bull-market/cover.jpg"
-date: "2023-07-05T05:35:07.322Z"
+coverImage: "/assets/blog/-t/cover.jg"
+date: "2023-0-5T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/bull-market/cover.jpg"
+url: "/assets/blog/bull-market/cover.jpg"
 tags:
-  - trade
+  - trade/cover.jp
 ---
 # What is a Bull Market?
 
@@ -60,5 +60,5 @@ Shorting in bull markets is an advanced strategy and is more suitable for experi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjAxODU2MF19
+eyJoaXN0b3J5IjpbMTQ3NDc4NzA3LC01MTYwMTg1NjBdfQ==
 -->
