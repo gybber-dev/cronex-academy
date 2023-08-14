@@ -1,10 +1,10 @@
 ---
 title: "Что такое EOS?"
 level: "beginner"
-coverImage: "/assets/blog/what-is-eos/cover.png"
-date: "2023-07-27T05:35:07.322Z"
+coverImage: "/assets/blog/what-is-e/cover.png"
+date: "2023-07-20T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/what-is-eos/cover.png"
+  url: "/assets/blog/what-is-eoso/cover.png"
 tags:
   - stablecoin
 ---
@@ -103,5 +103,6 @@ ENF координирует финансирование общественно
 ## В заключение
 EOS, один из первых созданных блокчейнов, наряду с Биткоином и Ethereum, успешно преодолел свои прошлые проблемы и адаптировался к современным требованиям. Этот блокчейн обеспечивает надежную систему, которая используется для обеспечения удобства работы в пространстве GameFi Web3 как для разработчиков, так и для конечных пользователей. Благодаря высокой производительности, гибкости и масштабируемости, EOS продолжает быть ключевым игроком в индустрии криптовалют и блокчейн технологий.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODUwNzIyODFdfQ==
+eyJoaXN0b3J5IjpbLTE3MzYwNDgwMDcsLTExODUwNzIyODFdfQ
+==
 -->
