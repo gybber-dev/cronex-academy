@@ -2,7 +2,7 @@
 title: "Trading Strategies for Cryptocurrencies"
 level: "beginner"
 coverImage: "/assets/blog/cryptocurrency-trading/cover.jpg"
-date: "2023-07-08T05:35:07.322Z"
+date: "202-0-85T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/cryptocurrency-trading/cover.jpg"
 tags:
@@ -114,6 +114,7 @@ Ultimately, the choice and development of a trading strategy is a personal proce
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTY1ODg2NjQsMTQ3ODU3MTM3MCwtMT
-A2MjEzNDk2MSw4MDAwNjc3MTgsMjEyNjAwMDk5OV19
+eyJoaXN0b3J5IjpbNDE0MDkyMzI0LC0xNzE2NTg4NjY0LDE0Nz
+g1NzEzNzAsLTEwNjIxMzQ5NjEsODAwMDY3NzE4LDIxMjYwMDA5
+OTldfQ==
 -->
