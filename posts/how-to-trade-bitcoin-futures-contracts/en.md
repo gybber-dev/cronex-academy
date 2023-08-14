@@ -1,10 +1,10 @@
 ---
 title: "How to trade Bitcoin futures contracts"
 level: "beginner"
-coverImage: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
-date: "2023-07-11T05:35:07.322Z"
+coverImage: "/assets/blog/how-bitcoin-futures-contracts/cover.png"
+date: "202-10T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
+url: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
 tags:
   - trade
   - bitcoin
@@ -67,5 +67,5 @@ By using Bitcoin futures, you can expand the diversification of your portfolio a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NjczMDczMl19
+eyJoaXN0b3J5IjpbLTEyODExMzM4MzYsLTg1NjczMDczMl19
 -->
