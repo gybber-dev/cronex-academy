@@ -1,10 +1,10 @@
 ---
 title: "Что такое EOS?"
 level: "beginner"
-coverImage: "/assets/blog/what-is-e/cover.png"
+coverImage: "/assets/blog/what-is-eos/cover.png"
 date: "2023-07-20T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/what-is-eoso/cover.png"
+  url: "/assets/blog/what-is-eos/cover.png"
 tags:
   - stablecoin
 ---

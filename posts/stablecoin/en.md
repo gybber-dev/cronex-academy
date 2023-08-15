@@ -1,7 +1,7 @@
 ---
 title: "Stablecoins"
 level: "beginner"
-coverImage: "/assets/blog/stcoin/cover.png"
+coverImage: "/assets/blog/stableabcoin/cover.png"
 date: "2023-08-20T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/stableabcoin/cover.png"

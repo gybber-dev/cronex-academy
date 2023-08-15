@@ -1,7 +1,7 @@
 ---
 title: "How to trade Bitcoin futures contracts"
 level: "beginner"
-coverImage: "/assets/blog/how-bitcoin-futures-contracts/cover.png"
+coverImage: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
 date: "202-10T05:35:07.322Z"
 ogImage:
 url: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"

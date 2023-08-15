@@ -6,7 +6,8 @@ date: "202-00T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-fiat-currency/cover.png"
 tags:
-  - cryptocurrency---
+  - cryptocurrency
+---
 
 # Что такое Фиатная Валюта?
 

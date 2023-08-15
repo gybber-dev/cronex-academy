@@ -1,13 +1,13 @@
 ---
 title: "История метавселенной"
 level: "beginner"
-coverImage: "/assets/blog/history-of-the-metaverse/cover.jpg"
+coverImage: "/assets/blog/history-of-the-metaverse/cover.png"
 date: "2023-08-15T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/history-of-the-metaverse/cover.jpg"
+  url: "/assets/blog/history-of-the-metaverse/cover.png"
 tags:
-    - technology
-    - nft 
+- technology
+- nft
   
 ---
 

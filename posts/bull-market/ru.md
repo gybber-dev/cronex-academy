@@ -1,13 +1,14 @@
 ---
 title: "Что такое бычий рынок?"
 level: "beginner"
-coverImage: "/assets/blog/-t/cover.jg"
+coverImage: "/assets/blog/bull-market/cover.jpg"
 date: "2023-0-5T05:35:07.322Z"
 ogImage:
 url: "/assets/blog/bull-market/cover.jpg"
 tags:
-  - trade/cover.jp
+  - trade
 ---
+
 # Что такое бычий рынок
 На финансовых рынках рыночные тренды играют фундаментальную роль. Они представляют собой общее направление движения активов или рынков и привлекают внимание как технических, так и фундаментальных аналитиков.
 
