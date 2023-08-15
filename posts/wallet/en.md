@@ -96,8 +96,3 @@ It's crucial to bear in mind that backup copies should be securely stored, prefe
 
 Always keep in mind that creating and routinely updating backups is an integral aspect of ensuring the security of your cryptocurrency wallet. Doing so will enable you to restore access to your funds should any issues arise with the main wallet.
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MTI2Mzg1LDE5Mzc4MjQzMzUsLTcwMz
-A2ODAwOV19
--->

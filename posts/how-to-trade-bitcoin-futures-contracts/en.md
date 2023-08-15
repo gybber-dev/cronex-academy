@@ -2,7 +2,7 @@
 title: "How to trade Bitcoin futures contracts"
 level: "beginner"
 coverImage: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
-date: "202-10T05:35:07.322Z"
+date: "2023-08-10T05:35:07.322Z"
 ogImage:
 url: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
 tags:
@@ -62,10 +62,3 @@ You buy two bitcoin futures contracts, each priced at $30,000 USD. Your exchange
 ### Portfolio Diversification
 By using Bitcoin futures, you can expand the diversification of your portfolio and explore new trading strategies. It is recommended to maintain a well-balanced portfolio that includes various coins and products. Futures provide an opportunity to experiment with different trading strategies rather than just holding assets. Additionally, there are low-risk arbitrage strategies with more moderate returns that can help reduce the overall risk of your portfolio.
 
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODExMzM4MzYsLTg1NjczMDczMl19
--->

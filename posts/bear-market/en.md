@@ -2,7 +2,7 @@
 title: "What is a bear market?"
 level: "beginner"
 coverImage: "/assets/blog/bear-market/cover.jpg"
-date: "202-0-42T05:35:07.322Z"
+date: "2023-07-24T05:35:07.322Z"
 ogImage:
 url: "/assets/blog/t/cover.png"
 tags:
@@ -63,7 +63,3 @@ Nevertheless, some traders prefer to explore "counter-trend" trades, which invol
 
 In conclusion, a bear market signifies a period of declining prices in the financial market, and traders encounter both challenges and opportunities during such times. One straightforward strategy during a bear market is to move into cash or stablecoins and wait for more favorable trading conditions. Additionally, many traders actively seek short-selling opportunities to profit from price declines.
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODY1Njc3OCwxMTMzNzE5ODk1XX0=
--->

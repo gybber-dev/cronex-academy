@@ -2,7 +2,7 @@
 title: "What is cryptocurrency mining?"
 level: "beginner"
 coverImage: "/assets/blog/mining/cover.jpg"
-date: "202-0-8T05:35:07.322Z"
+date: "2023-08-08T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/mining/cover.jpg"
 tags:
@@ -130,13 +130,3 @@ Changes at the protocol level can also influence mining profitability. For insta
 
 In conclusion, cryptocurrency mining plays a pivotal role in ensuring the security of blockchain networks, including Bitcoin, and supports a stable coin emission. It also offers miners the opportunity to earn passive income through rewards for creating blocks. However, mining has its pros and cons, and profitability hinges on various factors, including electricity costs and market prices. If considering cryptocurrency mining, conducting thorough research and assessing all potential risks associated with the process are of utmost importance.
 
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxOTE0MDg3LC02MjQ4MDgzMTMsMTIxND
-U2NjE0MiwtMTAwMzUxNDE4Myw3OTM4MzkxODIsLTEyMDc4NzQy
-MDcsLTE4MTk3ODEzNjgsLTQ2NDkzNzIyOSwtMTMyMzg2NDY2LD
-c4MjU1NTU1OF19
--->

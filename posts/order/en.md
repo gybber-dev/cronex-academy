@@ -96,9 +96,3 @@ To place a limit order on Cronex and buy BTC at a lower price than the current o
 To monitor your active orders, simply scroll down to the "Open Orders" tab on Cronex. Remember that the execution of a limit order depends on whether the market price reaches the specific limit price you set. Should the market fail to meet that price level, your limit order will remain open, awaiting the right conditions.
 The limit order is a powerful tool in trading, empowering you to buy or sell coins at a predetermined price. This feature is designed to assist traders in maximizing potential profits or mitigating potential losses. However, it is crucial to conduct thorough research on the various order types available and carefully evaluate which option best aligns with your unique portfolio and trading strategy. Making a well-informed decision will significantly enhance your chances of achieving successful trading outcomes.
 
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NzkyNTYyNl19
--->

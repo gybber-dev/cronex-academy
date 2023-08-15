@@ -89,6 +89,3 @@ TrueUSD (TUSD) — это независимый и проверяемый ст�
 In addition to trading and investments, stablecoins provide the opportunity to use cryptocurrencies for everyday payments and international transfers.
 
 However, despite the significance of stablecoins in the cryptocurrency world, it is essential to be aware of the risks they present. Some stablecoin projects may face challenges in maintaining their peg, encounter legal issues, or experience mismanagement of reserves. Although stablecoins offer versatility, they still remain cryptocurrencies and carry similar risks. Therefore, it is recommended to diversify one's cryptocurrency portfolio and thoroughly research each project before engaging in transactions.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg0MDA1MTRdfQ==
--->

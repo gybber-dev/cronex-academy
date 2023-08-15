@@ -1,10 +1,10 @@
 ---
 title: "What is EOS"
 level: "beginner"
-coverImage: "/assets/blog/what-is-e/cover.png"
+coverImage: "/assets/blog/what-is-eos/cover.png"
 date: "2023-07-20T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/what-is-eoso/cover.png"
+  url: "/assets/blog/what-is-eos/cover.png"
 tags:
   - stablecoin
 ---
@@ -104,20 +104,3 @@ Moreover, the launch of the initiative to create a $100 million ecosystem fund, 
 
 **In conclusion**, EOS, one of the early blockchain pioneers alongside Bitcoin and Ethereum, has successfully overcome its past challenges and adapted to modern requirements. This blockchain platform provides a reliable system, catering to the convenience of developers and end-users within the GameFi Web3 space. With its high performance, flexibility, and scalability, EOS continues to be a prominent player in the cryptocurrency and blockchain industry.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzUyNjA1NDMsLTQ5MTkwMTg5NF19
--->

@@ -117,15 +117,3 @@ Limiting the rate of coin production also serves a purpose. If the subsidy remai
 
 Halving is an integral part of Bitcoin's design, guaranteeing a stable issuance rate and promoting the use of the cryptocurrency for many years. This mechanism continues to operate, upholding the economic integrity and value of Bitcoin.
 
-
-
-
-
-
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTUzNTk1Miw2MDgxNTc2NjAsLTUwMT
-cxNTgyOCwxNTUyNjY4ODY4LC0xNDQ4MjkyNzFdfQ==
--->

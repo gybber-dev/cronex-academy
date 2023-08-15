@@ -2,7 +2,7 @@
 title: "Как ставить личные финансовые цели"
 level: "beginner"
 coverImage: "/assets/blog/setting-personal-financial-goals/cover.png"
-date: "2023-098-08T05:35:07.322Z"
+date: "2023-08-08T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/setting-personal-financial-goals/cover.png"
 tags: 
@@ -96,7 +96,3 @@ tags:
 Based on your preferences, current requirements, and priorities, opt for the most fitting method to reach your financial aspirations. You might even consider blending a few of the suggested strategies or employing them independently.
 
 Maintain in mind that it's unwise to hastily seize each financial opportunity, including cryptocurrencies and other instruments. Striving for elevated gains with substantial risks can yield unfavorable results and diminish the probability of attaining your aims. Always make prudent and reflective choices, grounded in your financial acumen and objectives.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjIxNDA0Myw1NTIzNjk1MjQsNTk5ND
-g1NjY3XX0=
--->

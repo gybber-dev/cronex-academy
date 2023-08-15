@@ -2,7 +2,7 @@
 title: "what is fiat currency?"
 level: "beginner"
 coverImage: "/assets/blog/what-is-fiat-currency/cover.png"
-date: "202-00T05:35:07.322Z"
+date: "2023-08-09T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-fiat-currency/cover.png"
 tags:
@@ -73,8 +73,3 @@ The cryptocurrency market, while rapidly growing, remains relatively small and m
 
 Although the future roles of fiat currency and cryptocurrencies are uncertain, the interest in digital assets suggests a desire for innovative financial systems. Many individuals explore cryptocurrencies' potential benefits, even if it constitutes only a portion of their overall financial transactions. Cryptocurrencies, with their peer-to-peer principles and decentralized nature, strive to offer an alternative financial system that can complement traditional fiat currencies, promoting financial inclusivity and efficiency in the long run.
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTY5NTg1NDMsMjEwMDkyOTM1NCwtMj
-QyMTAxODkyLC0yNDIxMDE4OTJdfQ==
--->

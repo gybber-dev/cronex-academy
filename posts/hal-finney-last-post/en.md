@@ -42,6 +42,3 @@ It has been an adjustment, but my life is not too bad. I can still read, listen 
 And of course the price gyrations of bitcoins are entertaining to me. I have skin in the game. But I came by my bitcoins through luck, with little credit to me. I lived through the crash of 2011. So I've seen it before. Easy come, easy go.
 
 That's my story. I'm pretty lucky overall. Even with the ALS, my life is very satisfying. But my life expectancy is limited. Those discussions about inheriting your bitcoins are of more than academic interest. My bitcoins are stored in our safe deposit box, and my son and daughter are tech savvy. I think they're safe enough. I'm comfortable with my legacy.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA3MzU0NzQ3LDExNDAwNzE5MDFdfQ==
--->
