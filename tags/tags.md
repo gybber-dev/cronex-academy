@@ -5,7 +5,7 @@ tags:
 - bitcoin  
 - ethereum  
 - stablecoin
-- nfts  
+- nft  
 - trade  
 - smart contracts  
 - crypto wallets  
