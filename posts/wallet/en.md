@@ -4,7 +4,7 @@ level: "beginner"
 coverImage: "/assets/blog/wallet/cover.png"
 date: "2023-07-24T05:35:07.322Z"
 ogImage:
-url: "/assets/blog/wallet/cover.png"
+  url: "/assets/blog/wallet/cover.png"
 tags: 
   - wallet
   - cryptocurrency
@@ -98,5 +98,6 @@ Always keep in mind that creating and routinely updating backups is an integral 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzgyNDMzNSwtNzAzMDY4MDA5XX0=
+eyJoaXN0b3J5IjpbOTg5MTI2Mzg1LDE5Mzc4MjQzMzUsLTcwMz
+A2ODAwOV19
 -->

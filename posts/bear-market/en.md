@@ -2,9 +2,9 @@
 title: "What is a bear market?"
 level: "beginner"
 coverImage: "/assets/blog/bear-market/cover.jpg"
-date: "2023-07-04T05:35:07.322Z"
+date: "202-0-42T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/bear-market/cover.png"
+url: "/assets/blog/t/cover.png"
 tags:
   - trade
 ---
@@ -65,5 +65,5 @@ In conclusion, a bear market signifies a period of declining prices in the finan
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzcxOTg5NV19
+eyJoaXN0b3J5IjpbLTc4ODY1Njc3OCwxMTMzNzE5ODk1XX0=
 -->

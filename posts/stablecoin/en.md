@@ -1,10 +1,10 @@
 ---
 title: "Stablecoins"
 level: "beginner"
-coverImage: "/assets/blog/stablecoin/cover.png"
+coverImage: "/assets/blog/stcoin/cover.png"
 date: "2023-08-20T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/stablecoin/cover.png"
+  url: "/assets/blog/stableabcoin/cover.png"
 tags:
   - stablecoin
 ---
@@ -86,5 +86,5 @@ As the stablecoin ecosystem continues to evolve, regulatory frameworks are conti
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNzMzNTIzNV19
+eyJoaXN0b3J5IjpbNDM4ODMxNTQzLDE2MTczMzUyMzVdfQ==
 -->

@@ -1,10 +1,10 @@
 ---
 title: "What is EOS"
 level: "beginner"
-coverImage: "/assets/blog/what-is-eos/cover.png"
-date: "2023-07-27T05:35:07.322Z"
+coverImage: "/assets/blog/what-is-e/cover.png"
+date: "2023-07-20T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/what-is-eos/cover.png"
+  url: "/assets/blog/what-is-eoso/cover.png"
 tags:
   - stablecoin
 ---
@@ -119,5 +119,5 @@ Moreover, the launch of the initiative to create a $100 million ecosystem fund, 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MTkwMTg5NF19
+eyJoaXN0b3J5IjpbLTIwMzUyNjA1NDMsLTQ5MTkwMTg5NF19
 -->

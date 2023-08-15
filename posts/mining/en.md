@@ -2,7 +2,7 @@
 title: "What is cryptocurrency mining?"
 level: "beginner"
 coverImage: "/assets/blog/mining/cover.jpg"
-date: "2023-07-15T05:35:07.322Z"
+date: "202-0-8T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/mining/cover.jpg"
 tags:
@@ -135,8 +135,8 @@ In conclusion, cryptocurrency mining plays a pivotal role in ensuring the securi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDgwODMxMywxMjE0NTY2MTQyLC0xMD
-AzNTE0MTgzLDc5MzgzOTE4MiwtMTIwNzg3NDIwNywtMTgxOTc4
-MTM2OCwtNDY0OTM3MjI5LC0xMzIzODY0NjYsNzgyNTU1NTU4XX
-0=
+eyJoaXN0b3J5IjpbODUxOTE0MDg3LC02MjQ4MDgzMTMsMTIxND
+U2NjE0MiwtMTAwMzUxNDE4Myw3OTM4MzkxODIsLTEyMDc4NzQy
+MDcsLTE4MTk3ODEzNjgsLTQ2NDkzNzIyOSwtMTMyMzg2NDY2LD
+c4MjU1NTU1OF19
 -->

@@ -2,7 +2,7 @@
 title: "Что такое криптовалюта"
 level: "beginner"
 coverImage: "/assets/blog/what-is-a-cryptocurrency/cover.png"
-date: "2023-07-25T05:35:07.322Z"
+date: "202-0-22T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 tags:
@@ -60,5 +60,6 @@ tags:
 Следуя этим советам, вы можете повысить уровень безопасности при инвестировании в криптовалюты и принять осознанные решения, минимизируя возможные риски.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTUwMDkwNzgsMTY5NjgyNTEwOV19
+eyJoaXN0b3J5IjpbLTE2MjY2ODQ5NDQsLTE0NTUwMDkwNzgsMT
+Y5NjgyNTEwOV19
 -->

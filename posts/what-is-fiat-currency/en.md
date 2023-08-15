@@ -2,7 +2,7 @@
 title: "what is fiat currency?"
 level: "beginner"
 coverImage: "/assets/blog/what-is-fiat-currency/cover.png"
-date: "2023-07-30T05:35:07.322Z"
+date: "202-00T05:35:07.322Z"
 ogImage:
   url: "/assets/blog/what-is-fiat-currency/cover.png"
 tags:
@@ -75,6 +75,6 @@ Although the future roles of fiat currency and cryptocurrencies are uncertain, t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDkyOTM1NCwtMjQyMTAxODkyLC0yND
-IxMDE4OTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTY5NTg1NDMsMjEwMDkyOTM1NCwtMj
+QyMTAxODkyLC0yNDIxMDE4OTJdfQ==
 -->
