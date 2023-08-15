@@ -4,7 +4,7 @@ level: "beginner"
 coverImage: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
 date: "2023-08-10T05:35:07.322Z"
 ogImage:
-url: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
+  url: "/assets/blog/how-to-trade-bitcoin-futures-contracts/cover.png"
 tags:
   - trade
   - bitcoin

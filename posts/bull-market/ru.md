@@ -4,7 +4,7 @@ level: "beginner"
 coverImage: "/assets/blog/bull-market/cover.jpg"
 date: "2023-08-05T05:35:07.322Z"
 ogImage:
-url: "/assets/blog/bull-market/cover.jpg"
+  url: "/assets/blog/bull-market/cover.jpg"
 tags:
   - trade
 ---
