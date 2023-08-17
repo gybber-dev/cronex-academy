@@ -1,7 +1,8 @@
 ---
 title: "Что такое медвежий рынок?"
 level: "beginner"
-coverImage: "/assets/blog/bear-market/cover.jpg"date: "2023-07-24T05:35:07.322Z"
+coverImage: "/assets/blog/bear-market/cover.jpg"
+date: "2023-07-24T05:35:07.322Z"
 ogImage:
 url: "/assets/blog/bear-market/cover.jpg"
 tags:
