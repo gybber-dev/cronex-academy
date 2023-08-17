@@ -1,10 +1,10 @@
 ---
 title: "Стратегии торговли криптовалютами"
 level: "beginner"
-coverImage: "/assets/blog/cryptocurrency-trading/cover.jpg"
+coverImage: "/assets/blog/cryptocurrency-trading/cover.png"
 date: "2023-07-08T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog/cryptocurrency-trading/cover.jpg"
+  url: "/assets/blog/cryptocurrency-trading/cover.png"
 tags:
   - cryptocurrency
   - trade
