@@ -1,12 +1,13 @@
 ---
 title: "Криптовалюты и акции: в чем разница?"
 level: "beginner"
-coverImage: "/assets/blog/cryptocurrencies-and-stocks:-what's-the-difference?/cover.jpg"
+coverImage: "/assets/blog/cryptocurrencies-and-stocks/cover.png"
 date: "2023-08-17T05:35:07.322Z"
 ogImage:
-url: "/assets/blog/cryptocurrencies-and-stocks:-what's-the-difference?/cover.jpg"
+url: "/assets/blog/cryptocurrencies-and-stocks/cover.png"
 tags:
     - trade
+    - cryptocurrency
 
 ---
 # Криптовалюты и акции: в чем разница?

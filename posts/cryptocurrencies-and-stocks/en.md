@@ -1,12 +1,13 @@
 ---
 title: "Cryptocurrencies and Stocks: What's the Difference?"
 level: "beginner"
-coverImage: "/assets/blog/cryptocurrencies-and-stocks:-what's-the-difference?/cover.jpg"
+coverImage: "/assets/blog/cryptocurrencies-and-stocks/cover.png"
 date: "2023-08-17T05:35:07.322Z"
 ogImage:
-url: "/assets/blog/cryptocurrencies-and-stocks:-what's-the-difference?/cover.jpg"
+url: "/assets/blog/cryptocurrencies-and-stocks/cover.png"
 tags:
     - trade
+    - cryptocurrency 
 
 ---
 # Cryptocurrencies and Stocks: What's the Difference?
@@ -30,6 +31,8 @@ The processes of trading cryptocurrencies and stocks also differ: cryptocurrenci
 
 ### Advantages:
 **Accessibility:** Cryptocurrencies are accessible to individuals worldwide with internet connectivity.
+
+
 
 **Decentralization:** Most cryptocurrency systems are decentralized and not reliant on central authorities, providing protection against censorship and control.
 
