@@ -4,7 +4,7 @@ level: "beginner"
 coverImage: "/assets/blog/what-is-kyc/cover.png"
 date: "2023-08-23T05:35:07.322Z"
 ogImage:
-  url: "/assets/blog//cover.png"
+  url: "/assets/blog/what-is-kyc/cover.png"
 tags:
   - technology 
 
