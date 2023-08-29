@@ -3,6 +3,7 @@ title: "What is Bitcoin?"
 level: "beginner"
 coverImage: "/assets/blog/what-is-bitcoin/cover.png"
 date: "2023-07-26T05:35:07.322Z"
+time: 7
 ogImage:
   url: "/assets/blog/what-is-bitcoin/cover.png"
 tags:
@@ -10,7 +11,7 @@ tags:
   - cryptocurrency
 ---
 
-# What is Bitcoin?
+## Introduction
 
 Bitcoin represents a revolutionary digital form of currency that sets itself apart from traditional fiat currencies governed by central authorities. Unlike conventional financial systems, Bitcoin operates through a decentralized network of thousands of computers distributed across the globe. Anyone can become part of this innovative ecosystem by installing open-source software and contributing to the network.
 

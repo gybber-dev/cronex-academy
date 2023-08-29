@@ -3,6 +3,7 @@ title: "What is a bear market?"
 level: "beginner"
 coverImage: "/assets/blog/bear-market/cover.png"
 date: "2023-07-24T05:35:07.322Z"
+time: 5
 ogImage:
   url: "/assets/blog/t/cover.png"
 tags:

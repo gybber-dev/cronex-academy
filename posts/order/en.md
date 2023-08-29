@@ -1,8 +1,9 @@
 ---
-title: "order types"
+title: "Types of Orders"
 level: "beginner"
 coverImage: "/assets/blog/order/cover.png"
 date: "2023-07-16T05:35:07.322Z"
+time: 9
 ogImage:
   url: "/assets/blog/order/cover.png"
 tags:
@@ -10,7 +11,7 @@ tags:
   - trade
 ---
 
-# Types of Orders
+## Introduction
 
 When you trade stocks or cryptocurrencies, you interact with the market by placing orders:
 

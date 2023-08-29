@@ -3,6 +3,7 @@ title: "What is KYC? (Know Your Customer)"
 level: "beginner"
 coverImage: "/assets/blog/what-is-kyc/cover.png"
 date: "2023-08-23T05:35:07.322Z"
+time: 5
 ogImage:
   url: "/assets/blog/what-is-kyc/cover.png"
 tags:

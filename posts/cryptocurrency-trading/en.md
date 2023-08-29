@@ -3,6 +3,7 @@ title: "Trading Strategies for Cryptocurrencies"
 level: "beginner"
 coverImage: "/assets/blog/cryptocurrency-trading/cover.png"
 date: "2023-08-05T05:35:07.322Z"
+time: 8
 ogImage:
   url: "/assets/blog/cryptocurrency-trading/cover.png"
 tags:
@@ -10,8 +11,6 @@ tags:
   - trade
 
 ---
-
-# A Guide for Beginners: Trading Strategies for Cryptocurrencies
 
 ## Introduction
 

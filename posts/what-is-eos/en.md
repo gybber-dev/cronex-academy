@@ -3,13 +3,12 @@ title: "What is EOS"
 level: "beginner"
 coverImage: "/assets/blog/what-is-eos/cover.png"
 date: "2023-07-20T05:35:07.322Z"
+time: 7
 ogImage:
   url: "/assets/blog/what-is-eos/cover.png"
 tags:
   - stablecoin
 ---
-
-# What is EOS
 
 ## Introduction
 

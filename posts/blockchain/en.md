@@ -3,6 +3,7 @@ title: "Blockchain"
 level: "beginner"
 coverImage: "/assets/blog/blockchain/cover.png"
 date: "2023-08-06T05:35:07.322Z"
+time: 4
 ogImage:
   url: "/assets/blog/blockchain/cover.png"
 tags:
@@ -11,7 +12,7 @@ tags:
   - bitcoin
 
 ---
-# Blockchain 
+
 Blockchain is a groundbreaking database with several distinguishing features. Firstly, it offers a tamper-proof mechanism where data can only be added but not altered, ensuring the utmost integrity. Secondly, each entry in the blockchain is cryptographically linked to the preceding one, forging an unbroken chain of blocks.
 
 The unparalleled strength of blockchain lies in its immutability. Any attempt to modify data within a block would result in a change to its cryptographic hash, consequently impacting subsequent blocks. This feature makes any alterations evident, preventing any attempts at hiding fraudulent activities.

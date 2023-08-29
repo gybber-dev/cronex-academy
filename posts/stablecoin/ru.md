@@ -3,6 +3,7 @@ title: "Стейблкоины"
 level: "beginner"
 coverImage: "/assets/blog/stablecoin/cover.png"
 date: "2023-08-20T05:35:07.322Z"
+time: 8
 ogImage:
   url: "/assets/blog/stablecoin/cover.png"
 tags:

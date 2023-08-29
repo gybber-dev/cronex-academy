@@ -3,13 +3,13 @@ title: "Setting personal financial goals"
 level: "beginner"
 coverImage: "/assets/blog/setting-personal-financial-goals/cover.png"
 date: "2023-08-08T05:35:07.322Z"
+time: 4
 ogImage:
   url: "/assets/blog/setting-personal-financial-goals/cover.png"
 tags: 
 - psychology
 - trade
 ---
-# Setting Personal Financial Goals and Achieving Them
 
 ## What Are Personal Financial Goals?
 

@@ -1,16 +1,15 @@
 ---
-title: "What is triangular arbitrage"
+title: "What is triangular arbitrage and how to use it"
 level: "beginner"
 coverImage: "/assets/blog/triangular-arbitrage/cover.png"
 date: "2023-08-22T05:35:07.322Z"
+time: 6
 ogImage:
   url: "/assets/blog/triangular-arbitrage/cover.png"
 tags:
   - peer-to-peer
   - trade
 ---
-
-# What is triangular arbitrage and how to use it
 
 ## Introduction
 

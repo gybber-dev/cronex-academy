@@ -3,13 +3,14 @@ title: "Stablecoins"
 level: "beginner"
 coverImage: "/assets/blog/stablecoin/cover.png"
 date: "2023-08-20T05:35:07.322Z"
+time: 8
 ogImage:
   url: "/assets/blog/stablecoin/cover.png"
 tags:
   - stablecoin
 ---
 
-# Introduction
+## Introduction
 
 In the highly volatile cryptocurrency sphere, not all digital assets exhibit high volatility. In light of this, stablecoins have emerged, specifically designed to maintain a stable fixed price. In conditions where the value of other tokens and coins can fluctuate rapidly, there is a high demand for currencies that combine the advantages of blockchain technology with relative stability. If you are not yet familiar with the world of stablecoins, our article offers a detailed examination of their functionality, advantages, and disadvantages.
 

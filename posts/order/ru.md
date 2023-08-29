@@ -1,8 +1,9 @@
 ---
-title: "типы ордеров"
+title: "Типы ордеров"
 level: "beginner"
 coverImage: "/assets/blog/order/cover.png"
 date: "2023-07-16T05:35:07.322Z"
+time: 9
 ogImage:
   url: "/assets/blog/order/cover.png"
 tags:
@@ -10,7 +11,7 @@ tags:
   - trade
 ---
 
-# Типы ордеров
+## Вступление
 
 Когда вы торгуете акциями или криптовалютой, вы взаимодействуете с рынком, размещая ордера:
 

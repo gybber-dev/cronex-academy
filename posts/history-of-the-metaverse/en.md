@@ -3,6 +3,7 @@ title: "History of the Metaverse"
 level: "beginner"
 coverImage: "/assets/blog/history-of-the-metaverse/cover.png"
 date: "2023-08-15T05:35:07.322Z"
+time: 5
 ogImage:
   url: "/assets/blog/history-of-the-metaverse/cover.png"
 tags:
@@ -10,7 +11,7 @@ tags:
 - nft
 ---
 
-# Introduction
+## Introduction
 
 The concept of the "metaverse" first emerged in the science fiction genre in the early 1990s. Over time, this idea has undergone significant changes thanks to advanced technological innovations. Moreover, it has been garnering increasing attention as a potential digital platform for social and economic activities.
 

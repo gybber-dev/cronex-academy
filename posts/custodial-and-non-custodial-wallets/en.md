@@ -3,6 +3,7 @@ title: "Custodial and Non-Custodial Wallets: What's the Difference"
 level: "beginner"
 coverImage: "/assets/blog/custodial-and-non-custodial-wallets/cover.png"
 date: "2023-08-20T05:35:07.322Z"
+time: 5
 ogImage:
   url: "/assets/blog/custodial-and-non-custodial-wallets/cover.png"
 tags:
@@ -10,7 +11,6 @@ tags:
   - cryptocurrency
 
 ---
-# Custodial and Non-Custodial Wallets: What's the Difference
 
 ## Introduction
 

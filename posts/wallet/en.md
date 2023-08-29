@@ -1,8 +1,9 @@
 ---
-title: "wallet"
+title: "Wallet"
 level: "beginner"
 coverImage: "/assets/blog/wallet/cover.png"
 date: "2023-07-24T05:35:07.322Z"
+time: 6
 ogImage:
   url: "/assets/blog/wallet/cover.png"
 tags: 
@@ -10,7 +11,7 @@ tags:
   - cryptocurrency
 ---
 
-# Cryptocurrency Wallet Information
+## Cryptocurrency Wallet Information
 
 In short, a cryptocurrency wallet is a tool used to interact with the blockchain network. Wallets can be categorized into three groups: software, hardware, and paper wallets. Depending on their operation mechanism, they can also be referred to as hot or cold wallets.
 

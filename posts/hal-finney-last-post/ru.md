@@ -3,6 +3,7 @@ title: "Хэл Финни последний пост"
 level: "beginner"
 coverImage: "/assets/blog/hal-finney-last-post/cover.png"
 date: "2023-08-10T05:35:07.322Z"
+time: 4
 ogImage:
   url: "/assets/blog/hal-finney-last-post/cover.png"
 tags:

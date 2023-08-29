@@ -3,13 +3,14 @@ title: "What is a cryptocurrency"
 level: "beginner"
 coverImage: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 date: "2023-07-25T05:35:07.322Z"
+time: 5
 ogImage:
   url: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 tags:
   - cryptocurrency
 ---
 
-# Hello
+## Introduction
 
 Welcome to Cronex Academy! We will tell you about the possibilities of cryptocurrencies and blockchain technology.
 

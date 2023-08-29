@@ -3,6 +3,7 @@ title: "Что такое майнинг?"
 level: "beginner"
 coverImage: "/assets/blog/mining/cover.png"
 date: "2023-08-08T05:35:07.322Z"
+time: 10
 ogImage:
   url: "/assets/blog/mining/cover.png"
 tags:
@@ -10,8 +11,6 @@ tags:
   - cryptocurrency
   - bitcoin
 ---
-
-# Что такое майнинг криптовалюты и как он работает
 
 ## Что такое майнинг криптовалют
   

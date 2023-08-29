@@ -3,13 +3,14 @@ title: 'What is a Bull Market?'
 level: 'beginner'
 coverImage: '/assets/blog/bull-market/cover.png'
 date: '2023-08-05T05:35:07.322Z'
+time: 5
 ogImage:
   url: '/assets/blog/bull-market/cover.png'
 tags:
   - trade
 ---
 
-# What is a Bull Market?
+## Introduction
 
 In financial markets, market trends play a fundamental role. They represent the overall direction of asset or market movements and attract the attention of both technical and fundamental analysts.
 
