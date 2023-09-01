@@ -2,7 +2,7 @@
 title: "Что такое Peer-to-Peer торговля?"
 description: "Торговля напрямую между пользователями (P2P) включает прямой обмен активами между индивидуальными лицами без необходимости посредников. Это позволяет пользователям торговать криптовалютами напрямую друг с другом."
 level: "intermediate"
-coverImage: "/assets/blog/P2P-trade/cover.png"
+coverImage: "/assets/blog/p2p-trade/cover.png"
 date: "2023-08-08T05:35:07.322Z"
 time: 8
 ogImage:
