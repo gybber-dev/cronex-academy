@@ -1,6 +1,6 @@
 ---
 title: "Five Risk Management Strategies"
-level: "beginner"
+level: "intermediate"
 coverImage: "/assets/blog/ five-risk-management-strategies/cover.png"
 date: "2023-08-31T05:35:07.322Z"
 time: 7

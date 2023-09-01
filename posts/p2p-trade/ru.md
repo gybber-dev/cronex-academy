@@ -1,6 +1,6 @@
 ---
 title: "Что такое P2P-торговля"
-level: "beginner"
+level: "intermediate"
 coverImage: "/assets/blog/P2P-trade/cover.png"
 date: "2023-08-08T05:35:07.322Z"
 time: 8

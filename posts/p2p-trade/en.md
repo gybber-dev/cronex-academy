@@ -1,6 +1,6 @@
 ---
 title: "What is P2P Trading"
-level: "beginner"
+level: "intermediate"
 coverImage: "/assets/blog/p2p-trade/cover.png"
 date: "2023-08-08T05:35:07.322Z"
 time: 8
