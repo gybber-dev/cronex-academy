@@ -1,5 +1,6 @@
 ---
 title: "Setting personal financial goals"
+description: "Setting personal financial goals involves defining specific objectives, creating a plan, and taking actionable steps towards managing and growing one's finances"
 level: "beginner"
 coverImage: "/assets/blog/setting-personal-financial-goals/cover.png"
 date: "2023-08-08T05:35:07.322Z"
@@ -7,8 +8,8 @@ time: 4
 ogImage:
   url: "/assets/blog/setting-personal-financial-goals/cover.png"
 tags: 
-- psychology
 - trade
+- psychology
 ---
 
 ## What Are Personal Financial Goals?

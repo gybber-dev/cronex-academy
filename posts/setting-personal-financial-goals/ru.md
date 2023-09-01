@@ -1,5 +1,6 @@
 ---
-title: "Как ставить личные финансовые цели и достигать их"
+title: "Как ставить личные финансовые цели и достигать их?"
+description: "Установка личных финансовых целей включает в себя определение конкретных целей, создание плана и предпринятие действий для управления и увеличения своих финансов."
 level: "beginner"
 coverImage: "/assets/blog/setting-personal-financial-goals/cover.png"
 date: "2023-08-08T05:35:07.322Z"
@@ -7,8 +8,8 @@ time: 4
 ogImage:
   url: "/assets/blog/setting-personal-financial-goals/cover.png"
 tags: 
-- psychology
 - trade
+- psychology
 ---
 
 ## Что такое личные финансовые цели

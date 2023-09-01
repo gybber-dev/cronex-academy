@@ -1,5 +1,6 @@
 ---
 title: "What is cryptocurrency mining?"
+description: "The process of mining cryptocurrency involves solving complex mathematical problems using high-performance computers. Miners compete to solve these problems and validate transactions on the blockchain, earning rewards in the form of new coins."
 level: "beginner"
 coverImage: "/assets/blog/mining/cover.png"
 date: "2023-08-08T05:35:07.322Z"

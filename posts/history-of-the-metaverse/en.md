@@ -1,5 +1,6 @@
 ---
 title: "History of the Metaverse"
+description: "Originally, the concept of the metaverse emerged in 1992, when American writer Neal Stephenson introduced his idea of the \"Metaverse\". However, the concept gained true popularity only with the advent of cryptocurrencies and blockchain"
 level: "beginner"
 coverImage: "/assets/blog/history-of-the-metaverse/cover.png"
 date: "2023-08-15T05:35:07.322Z"
@@ -7,6 +8,7 @@ time: 5
 ogImage:
   url: "/assets/blog/history-of-the-metaverse/cover.png"
 tags:
+- cryptocurrency
 - technology
 - nft
 ---

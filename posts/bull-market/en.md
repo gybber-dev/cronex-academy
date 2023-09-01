@@ -1,5 +1,6 @@
 ---
 title: 'What is a Bull Market?'
+description: "Investors are actively putting their funds into various cryptocurrencies, creating a favorable environment for further growth."
 level: 'beginner'
 coverImage: '/assets/blog/bull-market/cover.png'
 date: '2023-08-05T05:35:07.322Z'

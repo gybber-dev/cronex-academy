@@ -1,5 +1,6 @@
 ---
-title: "What is EOS"
+title: "What is EOS?"
+description: "EOS has been branded an \"Ethereum killer\" since it provides enterprise-level scaling, whereas Ethereum struggles with issues like speed and scaling."
 level: "beginner"
 coverImage: "/assets/blog/what-is-eos/cover.png"
 date: "2023-07-20T05:35:07.322Z"
@@ -7,7 +8,8 @@ time: 7
 ogImage:
   url: "/assets/blog/what-is-eos/cover.png"
 tags:
-  - stablecoin
+  - cryptocurrency
+  - blockchain  
 ---
 
 ## Introduction
@@ -19,8 +21,6 @@ However, the blockchain's development later slowed down, and the venture capital
 To address these issues, the creators of EOS decided to establish a new organization called the EOS Network Foundation (ENF), which is now responsible for the efficient distribution of capital and the development of EOS. Additionally, the decision was made to unlock the tokens used by B1, and the EOS network became a decentralized autonomous organization (DAO).
 
 In their pursuit of complete independence, on September 21, 2022, community engineers, under the guidance of ENF, transitioned from EOSIO 2.0 to Leap 3.1, utilizing the new Antelope protocol based on C++. EOS continues to implement new features to address scalability issues faced by blockchains.
-
-# What is EOS
 
 ## EOS Token
 

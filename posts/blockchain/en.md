@@ -1,5 +1,6 @@
 ---
-title: "Blockchain"
+title: "Blockchain. Technology changing the world"
+description: "Uncover how blockchain is reshaping industries, from finance to healthcare, by providing unparalleled transparency and trust."
 level: "beginner"
 coverImage: "/assets/blog/blockchain/cover.png"
 date: "2023-08-06T05:35:07.322Z"
@@ -7,11 +8,14 @@ time: 4
 ogImage:
   url: "/assets/blog/blockchain/cover.png"
 tags:
+  - cryptocurrency
   - blockchain
   - technology
   - bitcoin
 
 ---
+
+## Introduction
 
 Blockchain is a groundbreaking database with several distinguishing features. Firstly, it offers a tamper-proof mechanism where data can only be added but not altered, ensuring the utmost integrity. Secondly, each entry in the blockchain is cryptographically linked to the preceding one, forging an unbroken chain of blocks.
 

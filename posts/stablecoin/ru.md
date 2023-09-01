@@ -1,5 +1,6 @@
 ---
-title: "Стейблкоины"
+title: "Стейблкоины - путь к стабильности на рынке"
+description: "Стейблкоин - это цифровой актив, который привязан к реальным активам, таким как фиатные деньги или товары. Она предназначена для уменьшения волатильности на криптовалютном рынке и обеспечения стабильности цены."
 level: "beginner"
 coverImage: "/assets/blog/stablecoin/cover.png"
 date: "2023-08-20T05:35:07.322Z"
@@ -7,6 +8,7 @@ time: 8
 ogImage:
   url: "/assets/blog/stablecoin/cover.png"
 tags:
+  - cryptocurrency
   - stablecoin
 ---
 

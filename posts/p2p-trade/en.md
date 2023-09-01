@@ -1,5 +1,6 @@
 ---
-title: "What is P2P Trading"
+title: "What is Peer-to-Peer Trading?"
+description: "Peer-to-peer (P2P) trading involves the direct exchange of assets between individuals without the need for intermediaries. It enables users to trade cryptocurrencies directly with each other, using platforms that connect buyers and sellers."
 level: "beginner"
 coverImage: "/assets/blog/p2p-trade/cover.png"
 date: "2023-08-08T05:35:07.322Z"
@@ -7,8 +8,8 @@ time: 8
 ogImage:
   url: "/assets/blog/p2p-trade/cover.png"
 tags:
-  - peer-to-peer
   - trade
+  - peer-to-peer
 ---
 
 ## Introduction

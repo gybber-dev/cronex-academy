@@ -1,5 +1,6 @@
 ---
 title: "История метавселенной"
+description: "Изначально концепция метавселенной возникла в 1992 году, когда американский писатель Нил Стивенсон представил свою идею \"Метазавода\". Однако понятие приобрело настоящую популярность лишь с приходом криптовалют и блокчейна"
 level: "beginner"
 coverImage: "/assets/blog/history-of-the-metaverse/cover.png"
 date: "2023-08-15T05:35:07.322Z"
@@ -7,8 +8,9 @@ time: 5
 ogImage:
   url: "/assets/blog/history-of-the-metaverse/cover.png"
 tags:
-- technology
-- nft
+  - cryptocurrency
+  - technology
+  - nft
   
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What is KYC? (Know Your Customer)"
+description: "Discover the intriguing world of KYC (Know Your Customer) with our comprehensive article. From its origins to its pivotal role in modern business, we delve into the depths of this essential process. Unveil the reasons why KYC is more than just a requirement, and explore how it safeguards businesses and customers alike."
 level: "beginner"
 coverImage: "/assets/blog/what-is-kyc/cover.png"
 date: "2023-08-23T05:35:07.322Z"

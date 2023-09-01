@@ -1,5 +1,6 @@
 ---
-title: "Stablecoins"
+title: "Stablecoins - Ensuring Market Stability"
+description: "A stablecoin is a digital asset that is tied to real assets, such as fiat money or commodities. It is designed to reduce volatility in the cryptocurrency market and ensure price stability. Such stablecoins are typically issued by companies aiming to facilitate transactions and simplify fund storage."
 level: "beginner"
 coverImage: "/assets/blog/stablecoin/cover.png"
 date: "2023-08-20T05:35:07.322Z"
@@ -7,6 +8,7 @@ time: 8
 ogImage:
   url: "/assets/blog/stablecoin/cover.png"
 tags:
+  - cryptocurrency
   - stablecoin
 ---
 

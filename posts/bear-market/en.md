@@ -1,5 +1,6 @@
 ---
 title: "What is a bear market?"
+description: "The bear market in the cryptocurrency industry is characterized by a prolonged period of declining prices and pessimistic sentiment among investors. This phase is often accompanied by a decrease in trading volumes and a lack of positive news, leading to a downward trend."
 level: "beginner"
 coverImage: "/assets/blog/bear-market/cover.png"
 date: "2023-07-24T05:35:07.322Z"

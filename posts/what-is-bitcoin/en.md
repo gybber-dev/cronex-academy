@@ -1,5 +1,6 @@
 ---
 title: "What is Bitcoin?"
+description: "Delve into the comprehensive guide that unveils the intriguing concept behind Bitcoin, its history, and how it works, shedding light on the immense potential it holds for the future."
 level: "beginner"
 coverImage: "/assets/blog/what-is-bitcoin/cover.png"
 date: "2023-07-26T05:35:07.322Z"
