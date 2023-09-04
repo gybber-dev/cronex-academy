@@ -19,6 +19,7 @@ tags:
 - psychology
 - technology
 - wallet
+- altcoin
 
 ---
 
