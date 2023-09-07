@@ -17,6 +17,7 @@ tags:
 
 ## Introduction
 
+
 Blockchain is a groundbreaking database with several distinguishing features. Firstly, it offers a tamper-proof mechanism where data can only be added but not altered, ensuring the utmost integrity. Secondly, each entry in the blockchain is cryptographically linked to the preceding one, forging an unbroken chain of blocks.
 
 The unparalleled strength of blockchain lies in its immutability. Any attempt to modify data within a block would result in a change to its cryptographic hash, consequently impacting subsequent blocks. This feature makes any alterations evident, preventing any attempts at hiding fraudulent activities.
