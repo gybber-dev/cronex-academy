@@ -7,7 +7,7 @@ time: 5
 ogImage:
   url: "/assets/blog/what-is-real-estate-in-the-metaverse/cover.png"
 tags:
-  - NFT
+  - nft
 ---
 
 
