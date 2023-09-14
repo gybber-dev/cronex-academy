@@ -5,7 +5,7 @@ coverImage: "/assets/blog/what-is-leverage-in-crypto-trading/cover.png"
 date: "2023-09-14T05:35:07.322Z"
 time: 5
 ogImage:
-  url: "/assets/blog/ /cover.png"
+  url: "/assets/blog/what-is-leverage-in-crypto-trading/cover.png"
 tags:
   - trade
   - cryptoexchanges
