@@ -1,6 +1,6 @@
 ---
 title: "What is real estate in the metaverse?"
-level: "beginner"
+level: "intermediate"
 coverImage: "/assets/blog/what-is-real-estate-in-the-metaverse/cover.png"
 date: "2023-09-10T05:35:07.322Z"
 time: 5
