@@ -5,7 +5,7 @@ coverImage: "/assets/blog/what-is-a-smart-contract-security-audit/cover.png"
 date: "2023-09-19T05:35:07.322Z"
 time: 6
 ogImage:
-  url: "/assets/what-is-a-smart-contract-security-audit/t/cover.png"
+  url: "/assets/what-is-a-smart-contract-security-audit/cover.png"
 tags:
   - smart contracts
   - crypto security
