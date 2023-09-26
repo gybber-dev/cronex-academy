@@ -1,5 +1,5 @@
 ---
-title: "Что такое кредитное плечо в криптотрейдинге?"
+title: "What is Leverage in Crypto Trading?"
 level: "intermediate"
 coverImage: "/assets/blog/what-is-leverage-in-crypto-trading/cover.png"
 date: "2023-09-14T05:35:07.322Z"

@@ -16,24 +16,7 @@ tags:
 ## Introduction
 To ensure the validity of transactions recorded in the blockchain, various consensus mechanisms exist. Proof of Work (PoW) is one of the oldest among them. This consensus method was created by Satoshi Nakamoto and is considered one of the most reliable options. On the other hand, Proof of Stake (PoS) was developed later but is currently widely used in most alternative cryptocurrency projects.
 
-In addition to Bitcoin, PoW is utilized in other major cryptocurrencies such as Ethereum (ETH) and Litecoin (LTC). Conversely, PoS is employed in cryptocurrencies like Binance Coin (BNB), Solana (SOL), Cardano (ADA), and several other alternative coins.
-
-## What is Proof of Work (PoW) and how does it work?
-Proof of Work (PoW) stands out as a remarkable consensus algorithm utilized within the Bitcoin network and many other cryptocurrency networks. Its distinctiveness lies in its core purpose: preventing double-spending and upholding the security of transactions. This exceptional algorithm was conceived and introduced by the enigmatic Satoshi Nakamoto, the author of the groundbreaking Bitcoin whitepaper in 2008.
-
-The PoW algorithm functions in a manner unlike any other, where network participants, referred to as miners, engage in a competitive race to earn the privilege of adding new blocks containing transactions to the blockchain. PoW's uniqueness shines through in this process. Miners must tackle intricate mathematical puzzles using specialized mining hardware, and the first miner to successfully find the correct solution gains the authority to create a new block and append it to the blockchain.
-
-The exceptional aspect of PoW extends to its reward mechanism. Miners are incentivized for their computational work with a specific amount of cryptocurrency and transaction fees. For example, in the Bitcoin network as of December 2021, the miner responsible for creating a block received 6.25 BTC as a distinctive reward, in addition to transaction fees. This remarkable reward system undergoes a halving event approximately every four years, creating a unique supply control mechanism that distinguishes PoW-based cryptocurrencies.
-
-While PoW is renowned for its reliability and security, it also boasts a unique challenge: the significant computational resources and energy consumption required for mining. This uniqueness has sparked debates and discussions surrounding its environmental impact and sustainability, setting PoW apart from other consensus mechanisms.
-
-## What is Proof of Stake (PoS) and how does it work?
-Proof of Stake (PoS) serves as a consensus algorithm developed as a substitute for Proof of Work (PoW), offering a distinctive methodology to secure blockchain networks. This concept was initially introduced in 2011 and has since gained widespread usage in various cryptocurrency networks, including prominent cryptocurrencies such as Binance Coin (BNB), Solana (SOL), and Cardano (ADA).
-
-In contrast to PoW, where miners are responsible for validating transactions and upholding network security, PoS eliminates the mining process altogether. Instead, PoS introduces validators who play a pivotal role in confirming transactions and ensuring the blockchain's integrity. Validators are selected based on their commitment to lock up a specific amount of cryptocurrency as collateral, a process commonly known as staking. The greater the amount of cryptocurrency an individual stakes, the higher the likelihood of their selection to validate the next block. This innovative approach to consensus is recognized for its energy efficiency and reduced environmental footprint since it does not require the extensive computational resources associated with PoW.
-
-The PoS protocol employs a unique mechanism for selecting block validators, which may encompass factors such as the quantity of tokens staked, random selection, or criteria established by the network itself. Upon being chosen, validators are entrusted with the responsibility of verifying transaction blocks and incorporating them into the blockchain. As compensation for their efforts, validators receive transaction fees derived from the transactions included in the block they validate.
-
+In addition to Bitcoin, 98
 To sum up, Proof of Stake emerges as an environmentally friendly, ecologically sustainable consensus algorithm when compared to PoW. Its emphasis on staking and active engagement of cryptocurrency holders presents a compelling alternative for safeguarding blockchain networks while alleviating some of the ecological concerns linked to traditional mining practices.
 
 ## Is Proof of Stake a better solution than Proof of Work?
