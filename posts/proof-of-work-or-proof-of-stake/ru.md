@@ -5,7 +5,7 @@ coverImage: "/assets/blog/proof-of-work-or-proof-of-stake/cover.png"
 date: "2023-09-22T05:35:07.322Z"
 time: 6
 ogImage:
-  url: "/assets/proof-of-work-or-proof-of-stake/t/cover.png"
+  url: "/assets/proof-of-work-or-proof-of-stake/cover.png"
 tags:
   - technology
   - blockchain

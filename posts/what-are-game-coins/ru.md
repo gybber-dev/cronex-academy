@@ -5,7 +5,7 @@ coverImage: "/assets/blog/what-are-game-coins/cover.png"
 date: "2023-09-21T05:35:07.322Z"
 time: 6
 ogImage:
-  url: "/assets/what-are-game-coins/t/cover.png"
+  url: "/assets/what-are-game-coins/cover.png"
 tags:
   - technology
   - nft 
