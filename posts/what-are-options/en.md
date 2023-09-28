@@ -16,7 +16,7 @@ An options contract stands as a truly distinctive and exclusive agreement, affor
 
 Options, classified as derivatives, are distinguished by their unparalleled versatility, enabling them to be intricately linked to a wide spectrum of assets, ranging from stocks and cryptocurrencies to financial indices. They are frequently harnessed for speculative trading endeavors and as a potent tool to hedge against risks associated with existing investment positions.
 
-### How Do Option Contracts Work?
+## How Do Option Contracts Work?
 Option contracts operate as agreements that provide traders with the unique privilege, though not the obligation, to either purchase or sell a specific asset, referred to as the underlying asset, at a predetermined price within a specified timeframe. Two primary categories of options exist: call options, granting the right to buy an asset, and put options, endowing the right to sell. These options serve diverse purposes, encompassing speculative trading endeavors and risk mitigation strategies within the market.
 
 Each option contract comprises several pivotal components: contract size (dictating the volume of assets involved), expiration date (establishing the period during which the option remains exercisable), strike price (determining the price at which the transaction will transpire), and premium (representing the cost associated with the option). Those acquiring options compensate sellers with a premium in exchange for the entitlement to employ the option. Owners of options maintain the discretion to execute the contract (when advantageous) or allow it to lapse without execution.
@@ -25,12 +25,12 @@ Two predominant styles of options exist: American and European. American options
 
 Options confer upon traders a degree of adaptability and can be harnessed for an array of strategies across financial markets. Furthermore, they can function as instruments to safeguard a portfolio from adverse alterations in asset valuations.
 
-### Option Premium
+## Option Premium
 The determination of an option's premium involves several pivotal elements, and grasping this process can be simplified by dissecting it into four fundamental constituents: the value of the underlying asset, the strike price, the time until the contract's expiration, and the volatility of the related market (or index).
 
 The correlation between the asset's price and the strike price exerts opposing influences on premiums associated with call and put options. As the time remaining until the contract's expiration diminishes, premiums typically decrease because the likelihood of contract execution diminishes gradually. Conversely, heightened market volatility commonly leads to a rise in the premium. As a result, the premium of an option contract emerges as an outcome of the dynamic interplay between these two factors.
 
-### Option Greeks
+## Option Greeks
 "Option Greeks, also known as the Greeks of options, constitute a vital set of metrics employed within the realm of options trading. These metrics function akin to guiding stars for traders, enabling them to navigate the intricate waters of options markets. Let's delve into these Greek letters and comprehend their distinctive roles:
 
 1. Delta: Visualize delta as the sensitivity gauge for your option. It quantifies the extent to which the option's price will fluctuate for every $1 alteration in the underlying asset's price. For instance, if an option boasts a delta of 0.6, it signifies that its price will shift roughly by $0.60 for each $1 movement in the underlying asset.
@@ -45,8 +45,8 @@ The correlation between the asset's price and the strike price exerts opposing i
 
 These Greek letters function as the instruments on a financial control panel, offering traders valuable insights into the conduct of options under diverse market conditions. By grasping these metrics, traders can fine-tune their strategies, manage risks, and potentially optimize their returns in the domain of options trading."
 
-### Options Usage Scenarios
-#### Hedging
+## Options Usage Scenarios
+### Hedging
 Options are widely employed as a multifaceted instrument for mitigating risks, serving as a shield against possible financial downturns. A straightforward embodiment of this risk management strategy unfolds when traders choose to procure put options for stocks that already grace their portfolios. In the event of a downward spiral in stock prices, these put options emerge as a safeguard, thwarting the extension of financial setbacks.
 
 Consider the case of Alice, a shrewd investor who initially acquired 100 shares at $50 per share, fueled by the aspiration of witnessing their value ascend. Nevertheless, as a prudent maneuver to insulate herself from prospective losses, Alice opts to venture into the realm of put options, each bearing a predetermined strike price of $48, while incurring a $2 premium for every individual share. Should a bearish market scenario materialize, causing the stock price to plummet to $35, Alice can deftly wield her option contract as an instrument to vend each share at $48, rather than being compelled to settle for the diminished market value of $35. Conversely, if the market preserves its bullish trajectory, she retains the prerogative to abstain from executing the contract, with the only dent in her financial holdings being the premium, a mere $2 per share.
@@ -55,13 +55,13 @@ The upshot of this strategic maneuver is that Alice not only manages to break ev
 
 This illustrative scenario underscores the dynamic versatility of options as a potent tool for shielding one's investment portfolio, thereby maintaining a firm grip on the reins of financial control amidst the ever-evolving terrain of the financial markets.
 
-#### Speculative Trading
+### Speculative Trading
 
 Options can also serve as instruments for speculative trading, aiming to profit from fluctuations in asset prices. For instance, a trader who anticipates an asset's price to rise may opt to acquire a call option. If the asset's price escalates above the strike price, the trader can exercise the option, purchasing the asset at a lower price, potentially resulting in a profit. In the event the asset's price fails to reach the strike price, the option remains unexecuted, and the trader incurs only the cost of the option (the premium).
 
 Speculation employing options is deemed successful when the option generates a profit, either upon execution or when it reaches the breakeven point, and unsuccessful when it results in a loss. This affords traders the flexibility to leverage options in attempts to capitalize on market price fluctuations and devise various speculative trading strategies.
 
-#### Key Strategies
+### Key Strategies
 Within the options market, traders can employ a diverse array of strategies that are rooted in four fundamental positions: call options (the right to purchase), put options (the right to sell), selling call options, and selling put options.
 
 Below, you will find some of the core options trading strategies:
@@ -77,7 +77,7 @@ Below, you will find some of the core options trading strategies:
 These strategies provide traders with diverse tools for utilizing options to achieve a range of objectives, including asset protection, income augmentation, and speculation on market volatility. The choice of a particular strategy hinges on individual goals and risk tolerance.
 
 
-#### Advantages:
+### Advantages
 
 **Risk Hedging:** Options are excellent tools for protecting portfolios and hedging risks in the market, allowing traders to mitigate potential losses.
 
@@ -91,7 +91,7 @@ These strategies provide traders with diverse tools for utilizing options to ach
 
 **Simultaneous Execution of Multiple Trades:** Traders have the ability to simultaneously engage with multiple option contracts and construct multifaceted strategies.
 
-### Disadvantages:
+## Disadvantages
 
 **Complex Understanding:** Understanding all the mechanisms and premium calculations in options can be complex and requires time and education.
 
@@ -105,7 +105,7 @@ These strategies provide traders with diverse tools for utilizing options to ach
 
 Understanding these advantages and disadvantages helps traders make informed decisions when using options in their strategies.
 
-### Options vs. Futures
+## Options vs. Futures
 Options and futures, both categorized as derivative instruments, exhibit certain commonalities, yet significant distinctions set them apart:
 
 **Options:**
@@ -128,7 +128,7 @@ Options and futures, both categorized as derivative instruments, exhibit certain
 
 In summary, the key distinction lies in the fact that options grant the right but not the obligation to buy or sell an asset, whereas futures contracts impose an obligation to execute. This makes options more flexible due to the buyer's choice and futures more rigid as they must always be executed. Both instruments can be employed in various investment and trading strategies based on an investor's objectives and risk tolerance.
 
-### Conclusion:
+## Conclusion
 
 Options provide investors with the opportunity to acquire or sell assets in the future under predetermined conditions, regardless of the current market price. These financial instruments possess high versatility and find application in diverse scenarios, including speculative trading and risk hedging.
 
