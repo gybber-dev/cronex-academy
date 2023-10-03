@@ -19,6 +19,8 @@ From the moment Bitcoin was introduced, blockchain technology has made significa
 
 Qtum (pronounced as "quantum") is a blockchain network founded in 2016 by Ashley Houston, Neil Mahi, and Patrick Dai. In 2017, it conducted an Initial Coin Offering (ICO) that raised $15.6 million for the project. Subsequently, in September of the same year, its own mainnet was launched. The core idea behind Qtum is to combine elements from the Ethereum (ETH) and Bitcoin (BTC) networks. The project's team adopted the concept of Unspent Transaction Outputs (UTXO) from the Bitcoin network and merged it with the capabilities of Ethereum's smart contracts, aiming to harness the advantages of both blockchain platforms.
 
+<!-- banner_place -->
+
 ## How Qtum Works
 
 The Qtum network comprises four main components:

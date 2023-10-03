@@ -17,6 +17,7 @@ The first level of blockchain networks encompasses the major networks such as Bi
 In response to this issue, developers devised second-layer protocols that are constructed on top of the underlying blockchains and rely on their security and consensus mechanisms. An example of such a second-layer protocol is the Lightning Network. It enables users to perform transactions within the network without the necessity of recording every transaction on the public blockchain.
 
 The Lightning Network provides the ability for fast and instantaneous transactions among network participants, which helps reduce the load on the primary blockchain and enhances its scalability. Thus, second-layer protocols complement first-level blockchains by addressing scalability issues and improving the user experience.
+<!-- banner_place -->
 
 The terms "first level" and "second level" are crucial for understanding the architecture of different blockchains, projects, and developer tools. They help explain the connections between various blockchains and their supplementary layers.
 

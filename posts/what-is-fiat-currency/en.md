@@ -23,6 +23,8 @@ Subsequently, fiat money was used in Europe during the 17th century, as well as 
 
 In the United States, fiat money was introduced and repealed several times. In the 20th century, the U.S. fully transitioned to fiat money after abandoning the gold standard in 1972 under President Nixon. This became an example for other countries, and the world widely embraced the system of fiat currencies, where the value of money is determined by the authority of the government and trust in them.
 
+<!-- banner_place -->
+
 ### Contrast: Fiat Currency vs. Gold Standard
 
 When examining the distinctions between the gold standard system and fiat currencies, we uncover fundamental differences that have shaped monetary history.

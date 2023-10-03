@@ -24,6 +24,8 @@ Bitcoin's value stems from several distinctive factors. Firstly, it serves as a 
 
 Furthermore, instead of merely spending bitcoins, many individuals prefer to hold onto their holdings for extended periods—a phenomenon often referred to as "hodling." Bitcoin has earned the moniker "digital gold" due to its limited supply and the meticulous process of mining new coins. As such, some investors view Bitcoin as a reliable store of value akin to precious metals like gold or silver. Its scarcity and intricacy of mining contribute to its perceived value as a long-term wealth preservation asset, with many anticipating continued appreciation over time. As a result, Bitcoin has garnered significant attention as both a digital currency and a potential investment instrument.
 
+<!-- banner_place -->
+
 ## How are New Bitcoins Created?
 
 Bitcoin has a limited supply, and not all units are currently in circulation. The only way to create new bitcoins is through a process called _mining_, a special mechanism for adding data to the blockchain.

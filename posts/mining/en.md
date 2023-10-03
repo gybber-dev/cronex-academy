@@ -21,6 +21,8 @@ Another crucial function of mining is the introduction of new coins into circula
 
 To create new units of cryptocurrency, miners use computational resources to solve complex cryptographic puzzles. The process of finding a solution is known as "mining a block." The first miner to successfully find a solution adds their block to the blockchain and receives a reward for their contribution to securing the network. This reward usually consists of newly minted coins and transaction fees.
 
+<!-- banner_place -->
+
 ## How Cryptocurrency Mining Works
 
 Each new transaction within the blockchain is sent to a designated memory pool called the "mempool" or "transaction pool." The miner's role is to verify the authenticity of these transactions and bundle them into blocks.

@@ -46,6 +46,7 @@ Towards the end of 2008, a white paper known as the "Bitcoin: A Peer-to-Peer Ele
 Built upon the Hashcash algorithm, the Bitcoin system differed from the RPoW project by employing a decentralized peer-to-peer (P2P) protocol for monitoring and verifying transactions, as opposed to relying on a trusted hardware-based computational process. The proof-of-work mechanism was employed for the process of "mining," wherein individual miners generated new Bitcoins, and transactions were subsequently validated and confirmed by decentralized nodes within the network.
 
 January 3, 2009 marked the birth of Bitcoin, as Satoshi Nakamoto successfully "mined" the first block of Bitcoins, earning a reward of 50 Bitcoins. The inaugural Bitcoin transaction occurred on January 12, 2009, when Satoshi Nakamoto sent 10 Bitcoins to Hal Finney, establishing Hal Finney as the world's first recipient of Bitcoin.
+<!-- banner_place -->
 
 ### Ethereum
 

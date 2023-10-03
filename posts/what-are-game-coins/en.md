@@ -19,6 +19,8 @@ Crypto games are a genre of video games that actively make use of cryptocurrenci
 
 Crypto games have gained widespread popularity because they offer players actual ownership of their in-game assets. This sets them apart from traditional video games, where ownership of in-game assets is typically limited to the confines of the game itself. Instead, decentralized gaming platforms empower players with genuine ownership of in-game assets, often in the form of non-fungible tokens (NFTs) or cryptocurrency.
 
+<!-- banner_place -->
+
 Players have the opportunity to trade these in-game assets or utilize them in other games, creating a decentralized economic ecosystem. Thanks to these innovations, new types of gaming experiences have emerged, including the "play-to-earn" concept, which enables players to earn cryptocurrency or NFTs as they engage in gameplay.
 
 Crypto games are also closely associated with the idea of GameFi (gaming finance), signifying that the gaming industry operates on the principles of decentralized finance (DeFi). The use of blockchain technology and smart contracts plays a pivotal role in ensuring transparent and secure transactions within crypto games and the broader GameFi ecosystem.

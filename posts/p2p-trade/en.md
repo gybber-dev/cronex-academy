@@ -22,6 +22,8 @@ P2P trading, also known as peer-to-peer trading, enables users to buy and sell c
 
 On CEX, order book aggregators assess current market prices and optimal timing for executing trades. When a user is ready to buy or sell, an order is placed on the order book, and the exchange facilitates the transaction.
 
+<!-- banner_place -->
+
 In contrast, on P2P platforms, users have complete control over choosing the price, trade timing, and counterparty with whom they wish to trade. This approach helps to avoid price slippage that can occur on CEX and allows for direct communication and agreement between users.
 
 ## How P2P Exchange Works

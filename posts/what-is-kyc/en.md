@@ -27,10 +27,12 @@ KYC helps prevent violations rather than react to them. Most financial services 
 
 The following documents may be required during the KYC process:
 
-Identification document (ID).
-Driver's license.
-Passport.
+- Identification document (ID).
+- Driver's license.
+- Passport.
 In addition to identity verification, additional documents may be required to confirm the customer's location and address. KYC stages are typically conducted multiple times and regularly to enable financial organizations to maintain up-to-date information about their customers.
+
+<!-- banner_place -->
 
 ## Who Regulates KYC Standards?
 

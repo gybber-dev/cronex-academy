@@ -21,6 +21,8 @@ Transactions on CEX occur through the order book and the exchange platform, cont
 
 On the other hand, DEX are governed by smart contracts—self-executing pieces of code on the blockchain. Separate organizations or projects can create their own DEX and manage them, but theoretically, DEX can operate autonomously through user participation in maintaining liquidity.
 
+<!-- banner_place -->
+
 Unlike CEX, DEX typically do not employ order books for trading operations. Instead, decentralized exchanges operate on an Automated Market Maker (AMM) model. To use DEX, users simply require a cryptocurrency wallet and a specific amount of cryptocurrency (to cover gas/transaction fees). Due to their decentralized nature, DEX do not necessitate the creation of an account.
 
 CEX provides newcomers with a user-friendly interface and an easier way to initiate trading. In case of issues, users can seek support. Conversely, DEX have their advantages, but they usually cater more to experienced users willing to sacrifice simplicity for decentralization.

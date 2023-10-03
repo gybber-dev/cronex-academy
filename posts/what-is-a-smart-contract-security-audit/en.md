@@ -30,6 +30,8 @@ Security auditing of smart contracts is a process aimed at examining the code of
 
 For many investors, smart contract audits are a crucial criterion when considering investment opportunities in new DeFi projects. For large-scale projects, conducting audits has become a standard practice. Reports prepared by prominent auditing companies are considered more trustworthy and valuable in the eyes of investors.
 
+<!-- banner_place -->
+
 ## The Significance of Smart Contract Audits
 Smart contracts hold a crucial role within the blockchain ecosystem, serving as instruments for managing and securing substantial assets. Consequently, they become potential targets for malicious actors. Even the slightest deviations or flaws in the code can have dire consequences, resulting in the loss of substantial sums. For instance, the infamous DAO hack on the Ethereum blockchain led to the theft of a staggering 60 million dollars' worth of ETH cryptocurrency, prompting the implementation of a network-wide hard fork to recover the lost funds.
 

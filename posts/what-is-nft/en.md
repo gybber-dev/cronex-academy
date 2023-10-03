@@ -21,6 +21,8 @@ The term "non-fungible" describes the uniqueness and irreplaceability of an obje
 
 While ordinary assets, such as currency, can be freely exchanged due to their standardized nature, non-fungible assets, on the other hand, are unique and irreplaceable, making them particularly valuable to collectors seeking to acquire rare items.
 
+<!-- banner_place -->
+
 ## What is a Non-Fungible Token (NFT)?
 An NFT, also known as a Non-Fungible Token, is a cryptographic token that resides on a blockchain and possesses the capability to depict a diverse range of digital assets. What sets NFTs apart is their intrinsic distinctiveness, denoting that these digital assets bestow ownership rights upon truly unique and exceptionally distinctive items. These items can encompass artworks, in-game assets, collectible cards, virtual real estate, and various other digital commodities."
 In recent years, NFTs have gained substantial popularity as a means for creative individuals to monetize their digital creations, all while providing collectors with the extraordinary chance to acquire genuinely unmatched and irreplaceable digital assets.

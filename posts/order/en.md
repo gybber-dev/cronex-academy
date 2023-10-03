@@ -24,6 +24,8 @@ When you trade stocks or cryptocurrencies, you interact with the market by placi
 A Market Order is a type of order that involves an immediate purchase or sale of an asset at the current market price. To execute it, there needs to be sufficient liquidity in the market, as the Market Order will be fulfilled based on existing Limit Orders already placed in the order book.
 When you want to buy or sell an asset instantly at the best available price, placing a Market Order is the optimal choice. For instance, if you want to buy BNB and believe its price may rise rapidly, you agree to the current market price and place a Market Order on the chosen exchange for immediate execution.
 
+<!-- banner_place -->
+
 ## How Market Orders Work
 
 The way market orders function is distinct from limit orders, as they are executed instantly at the prevailing market price, without any waiting for matches with other orders in the order book. When you submit a market order, you are accepting the ongoing price in the market. For instance, if you place a market order to buy, the exchange will execute it at the lowest available asking price in the order book. Conversely, a market order to sell will match the highest available bid price.

@@ -22,6 +22,7 @@ Prominent blockchain ecosystems for fabricating digital currencies encompass Eth
 
 Before delving into the endeavor of birthing your cryptocurrency, it's imperative to delineate its envisaged use cases, formulate an economic model, and account for legal considerations. Subsequently, during the development phase, the judicious selection of the appropriate blockchain, consensus mechanism, and architectural framework is paramount. Additionally, conducting a comprehensive audit of the project and conducting rigorous legal due diligence constitute indispensable steps. While cryptocurrency creation is within reach for a broad spectrum of individuals, the establishment of a dependable project necessitates substantial dedication and enduring commitment.
 
+<!-- banner_place -->
 
 ## Introduction
 Many cryptocurrency enthusiasts are inspired by the idea of creating their own cryptocurrency and contemplate ways to bring it to life, utilize it, and attract users. But how should one embark on this exciting journey? There are numerous paths to create a cryptocurrency, and the choice depends on the complexity of your project. If you're considering launching your own cryptocurrency, in this article, we will explore the fundamentals to help you kickstart this journey.

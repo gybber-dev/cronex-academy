@@ -23,6 +23,9 @@ What makes Ethereum valuable is its ability to execute code within a decentraliz
 Furthermore, Ethereum supports smart contracts, which are programs capable of automatic execution under specific conditions without human involvement. This aspect opens the door to creating a variety of decentralized applications and services, attracting both developers and users worldwide.
 
 Therefore, Ethereum serves as a platform for innovation and decentralized applications, giving it high value in the world of cryptocurrencies and blockchain.
+
+<!-- banner_place -->
+
 ## What is a blockchain?
 A blockchain is a digital ledger employed for storing information and recording transactions. In the Ethereum context, envision the blockchain as a continuous chain of digital blocks. Each block contains details regarding transactions and various activities.
 

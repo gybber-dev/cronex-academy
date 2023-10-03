@@ -22,6 +22,8 @@ To address these issues, the creators of EOS decided to establish a new organiza
 
 In their pursuit of complete independence, on September 21, 2022, community engineers, under the guidance of ENF, transitioned from EOSIO 2.0 to Leap 3.1, utilizing the new Antelope protocol based on C++. EOS continues to implement new features to address scalability issues faced by blockchains.
 
+<!-- banner_place -->
+
 ## EOS Token
 
 EOS is a blockchain platform that utilizes the Delegated Proof of Stake (DPoS) consensus mechanism. Its native token is a utility token that serves several functions within the network. Token holders can use EOS tokens to purchase system resources, participate in blockchain governance, and transfer funds within applications running on the EOS platform. Tokens are also used to account for the assets of investors and speculators.

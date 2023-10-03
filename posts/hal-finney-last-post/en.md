@@ -32,6 +32,8 @@ The next I heard of Bitcoin was late 2010, when I was surprised to find that it 
 
 Speaking of heirs, I got a surprise in 2009, when I was suddenly diagnosed with a fatal disease. I was in the best shape of my life at the start of that year, I'd lost a lot of weight and taken up distance running. I'd run several half marathons, and I was starting to train for a full marathon. I worked my way up to 20+ mile runs, and I thought I was all set. That's when everything went wrong.
 
+<!-- banner_place -->
+
 My body began to fail. I slurred my speech, lost strength in my hands, and my legs were slow to recover. In August, 2009, I was given the diagnosis of ALS, also called Lou Gehrig's disease, after the famous baseball player who got it.
 
 ALS is a disease that kills moter neurons, which carry signals from the brain to the muscles. It causes first weakness, then gradually increasing paralysis. It is usually fatal in 2 to 5 years. My symptoms were mild at first and I continued to work, but fatigue and voice problems forced me to retire in early 2011. Since then the disease has continued its inexorable progression.

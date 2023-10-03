@@ -21,6 +21,8 @@ The extent of leverage is typically represented as a ratio, for instance, 1:5 (5
 
 Additionally, leverage can also be employed for engaging in diverse cryptocurrency derivative trading methods. Typical varieties of leverage-driven trading encompass margin trading, leveraged tokens, and futures contracts.
 
+<!-- banner_place -->
+
 ## How Leverage Trading Works
 Trading with leverage involves a series of fundamental steps. To begin, a trader needs to deposit funds into their trading account, enabling them to access borrowed capital. This initial deposit, referred to as collateral or margin, varies depending on the chosen leverage level and the total position value the trader intends to establish.
 
