@@ -1,11 +1,11 @@
 ---
 title: "Candlestick chart. Beginner's Guide"
 level: "beginner"
-coverImage: "/assets/blog/candlestick-chart-beginner's-guide/cover.png"
+coverImage: "/assets/blog/candlestick-chart-beginners-guide/cover.png"
 date: "2023-10-03T05:35:07.322Z"
 time: 5
 ogImage:
-  url: "/assets/blog/candlestick-chart-beginner's-guide/cover.png"
+  url: "/assets/blog/candlestick-chart-beginners-guide/cover.png"
 tags:
   - trade
   - technology
@@ -16,6 +16,8 @@ For those who are just beginning to explore trading and investments, chart analy
 
 ## What Are Candlestick Charts?
 A Japanese candlestick chart is a type of financial chart that displays price changes of an asset over specific periods of time. This type of chart consists of candlesticks, each representing a defined time interval. The time interval can vary, ranging from seconds to years. Candlestick charts were first developed in the 17th century and are often associated with a Japanese rice trader named Homma, whose ideas laid the foundation for modern candlestick charts. Over time, they have been refined, including contributions from Charles Dow, one of the founders of modern technical analysis. Candlestick charts can be used to analyze various types of data, but their primary purpose is to facilitate the visualization of price changes in financial markets. When used correctly, this tool allows traders to more accurately assess the probability of future price changes. Traders can also use candlestick charts to develop their own trading strategies based on market analysis.
+
+<!-- banner_place -->
 
 ## How Candlesticks Operate:
 
