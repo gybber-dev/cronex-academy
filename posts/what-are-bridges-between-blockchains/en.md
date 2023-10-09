@@ -18,6 +18,8 @@ In this context, a bridge is a protocol that connects two blockchains with disti
 
 Such bridges facilitate the interaction of digital assets and data existing in one blockchain with another blockchain, thereby ensuring their compatibility. Compatibility is a fundamental characteristic in the world of the Internet, where devices worldwide use common open protocols to communicate with each other. Therefore, the role of bridges in the blockchain space cannot be underestimated, as they provide a convenient means for the exchange of data and digital assets.
 
+<!-- banner_place -->
+
 ## Why Bridges Are Needed in the Blockchain World
 
 As blockchains emerged and evolved, users encountered a problem that hindered their ability to move assets between different blockchains. Each blockchain operates according to its unique rules, utilizes its tokens, protocols, and smart contracts. Blockchain bridges create the opportunity to unite isolated ecosystems and establish connections between different blockchains, facilitating seamless token and data exchange.
