@@ -48,6 +48,8 @@ There are various types of phishing attacks, typically classified based on their
 
 These various phishing techniques underscore the need for individuals to remain vigilant and employ security measures to protect against phishing attempts.
 
+<!-- banner_place -->
+
 ## Phishing vs. Pharming
 Phishing and pharming, while related, employ distinct techniques. The key distinction between them is that phishing relies on the victim making an error, whereas pharming involves the victim trying to access a legitimate website whose DNS record has been compromised by the attacker.
 
