@@ -1,5 +1,6 @@
 ---
 title: "What is Phishing?"
+description: "Phishing is an attack where attackers impersonate organizations to obtain personal data. It's done through fake emails and websites. Phishing is also prevalent in the cryptocurrency world, targeting digital currency theft."
 level: "beginner"
 coverImage: "/assets/blog/what-is-phishing/cover.png"
 date: "2023-10-10T05:35:07.322Z"

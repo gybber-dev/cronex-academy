@@ -1,5 +1,7 @@
 ---
 title: "How to create your own cryptocurrency?"
+description: "
+When creating a cryptocurrency, you need to decide whether it will be a coin with its own blockchain platform or a token issued on an existing blockchain network. Creating a token is usually simpler, requires less time and expertise. The choice depends on the project's goals and complexity."
 level: "intermediate"
 coverImage: "/assets/blog/how-to-create-your-own-cryptocurrency/cover.png"
 date: "2023-09-04T05:35:07.322Z"

@@ -1,5 +1,6 @@
 ---
 title: "Cryptocurrencies and Stocks: What's the Difference?"
+description: "Stocks and cryptocurrencies represent distinct investment realms, each with its own advantages and drawbacks. Evaluating risks and one's risk tolerance is crucial, and many opt for portfolio diversification, putting their money into both stocks and cryptocurrencies."
 level: "beginner"
 coverImage: "/assets/blog/cryptocurrencies-and-stocks/cover.png"
 date: "2023-08-17T05:35:07.322Z"

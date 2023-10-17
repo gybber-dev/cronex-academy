@@ -1,5 +1,6 @@
 ---
 title: "What is a first-level blockchain?"
+description: "The first level of blockchain networks encompasses major blockchains like Bitcoin, BNB, and Ethereum, capable of processing transactions within their own networks. To address scalability challenges, second-layer protocols, such as the Lightning Network, have been developed to provide instant transactions without burdening first-level blockchains."
 level: "beginner"
 coverImage: "/assets/blog/first-level-blockchain/cover.png"
 date: "2023-08-31T05:35:07.322Z"

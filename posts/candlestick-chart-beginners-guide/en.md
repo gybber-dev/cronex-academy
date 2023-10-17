@@ -1,5 +1,6 @@
 ---
 title: "Candlestick chart. Beginner's Guide"
+description: "Beginner investors and traders often find charts challenging, but grasping their significance is crucial. We delve into candlestick charts and their role in price analysis."
 level: "beginner"
 coverImage: "/assets/blog/candlestick-chart-beginners-guide/cover.png"
 date: "2023-10-03T05:35:07.322Z"
