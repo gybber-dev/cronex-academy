@@ -1,11 +1,11 @@
 ---
-title: "What is cryptocurrency halving"
+title: "What is Bitcoin halving"
 level: "beginner"
-coverImage: "/assets/blog/what-is-cryptocurrency-halving/cover.png"
+coverImage: "/assets/blog/what-is-bitcoin-halving/cover.png"
 date: "2023-17-10T05:35:07.322Z"
 time: 3
 ogImage:
-  url: "/assets/blog/what-is-cryptocurrency-halving/cover.png"
+  url: "/assets/blog/what-is-bitcoin-halving/cover.png"
 tags:
   - bitcoin
 ---
