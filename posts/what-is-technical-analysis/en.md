@@ -28,6 +28,8 @@ Technical analysis is most effective when applied to markets characterized by hi
 
 To evaluate prices and discern promising opportunities, traders employ charting tools commonly referred to as technical indicators. These indicators aid in the identification of both existing and potential market trends. Since the results of technical analysis are not consistently foolproof, some traders choose to utilize multiple indicators concurrently to mitigate risks.
 
+<!-- banner_place -->
+
 ## Indicators of Technical Analysis
 Instruments of technical analysis play a vital role for traders, empowering them to assess the market using charts and past price actions. Among the commonly utilized indicators, one finds the Simple Moving Average (SMA), which takes into account an asset's closing prices over a specified timeframe. The Exponential Moving Averages (EMA), a variation of SMAs, gives more weight to recent closing prices.
 

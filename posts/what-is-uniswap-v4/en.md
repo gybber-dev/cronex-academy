@@ -30,6 +30,8 @@ As time progressed, Uniswap established itself as a frontrunner in the DEX marke
 
 Uniswap has undergone multiple iterations. In 2020, Uniswap V2 was unveiled, followed by Uniswap V3 in 2021. June 2023 marked the release of a preliminary version of the Uniswap V4 code, introducing substantial enhancements to the platform. Understanding these changes is essential for staying current with the platform's development, while also considering the features of earlier Uniswap iterations.
 
+<!-- banner_place -->
+
 ## Features of Uniswap V1:
 Uniswap V1, the first version of the platform, was introduced in November 2018 as a pilot project to test its concept. Its primary innovation was the Constant Product Market Maker (CPMM) model.
 
