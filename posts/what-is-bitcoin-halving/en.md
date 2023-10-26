@@ -66,6 +66,8 @@ Following this downward trend, Bitcoin reached another peak in early 2021, but s
 
 Third Halving (May 11, 2020)
 
+<!-- banner_place -->
+
 The next halving reduced the block reward to 6.25 BTC and was accompanied by increased volatility:
 
 In 2020, the price of Bitcoin fluctuated between $3,500 and $12,500.
