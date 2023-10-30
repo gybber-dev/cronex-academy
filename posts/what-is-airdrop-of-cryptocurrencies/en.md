@@ -29,6 +29,8 @@ To acquire these tokens, users may be required to fulfill various tasks, such as
 
 In certain instances, rewards are exclusively conferred to wallets that engaged with the project prior to a specific date. Exemplifying this approach are projects like 1INCH and Uniswap, which employed it to motivate their early users. It's worth noting that, unlike more conventional airdrops, such rewards can hold considerable value, potentially reaching thousands of dollars.
 
+<!-- banner_place -->
+
 ## Why do cryptocurrency projects conduct airdrops?
 Blockchain projects distribute free tokens with the aim of expanding their audience and increasing the number of users. Increasing the token holder count adds more reliability to the token and contributes to a higher degree of project decentralization. Airdrops also serve as an incentive for recipients to actively use and promote the project, which aids in expanding the initial user base prior to listing on a cryptocurrency exchange.
 
