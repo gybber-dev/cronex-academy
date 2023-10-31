@@ -2,7 +2,7 @@
 title: "Что такое халвинг биткоина"
 level: "beginner"
 coverImage: "/assets/blog/what-is-bitcoin-halving/cover.png"
-date: "2023-17-10T05:35:07.322Z"
+date: "2023-10-17T05:35:07.322Z"
 time: 3
 ogImage:
   url: "/assets/blog/what-is-bitcoin-halving/cover.png"
