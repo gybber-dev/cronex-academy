@@ -1,6 +1,6 @@
 ---
 title: "What is the Ethereum Shanghai update and how will it affect users?"
-description: "Обновление Ethereum Shanghai (EIP-4895) позволит стейкерам ETH выводить свои активы из стейкинга и участвовать в качестве валидаторов на сети. С внедрением алгоритма Proof of Stake пользователям было разрешено стейкинг 32 ETH, блокируя эти средства на неопределенный срок и становясь валидаторами на сети. Это обновление, скорее всего, повлияет на долю ETH, находящуюся в стейкинге, относительно общего предложения, что, в свою очередь, может оказать влияние на динамику спроса и предложения ETH на рынке."
+description: "The Ethereum Shanghai update (EIP-4895) will allow ETH stakers to unstake their assets and participate as validators on the network. With the introduction of the Proof of Stake algorithm, users were allowed to stake 32 ETH, locking these funds indefinitely and becoming validators on the network. This update will likely impact the share of ETH staked relative to the total supply, which in turn may impact ETH supply and demand dynamics in the market."
 level: "intermediate"
 coverImage: "/assets/blog/what-is-the-ethereum-shanghai-update-and-how-will-it-affect-users/cover.png"
 date: "2023-10-30T05:35:07.322Z"
@@ -20,6 +20,8 @@ In September 2022, Ethereum completed its transition to the Proof of Stake (PoS)
 
 ## What is Ethereum Staking?
 Ethereum (ETH) staking is the process where ETH owners can temporarily lock up 32 ETH and become validators in the Ethereum network, which uses the Proof of Stake (PoS) consensus mechanism. In the PoS system, validators contribute to network security by verifying and confirming transactions, in return for which they receive rewards. With the Shanghai upgrade, stakers will be able to withdraw their locked funds, which was not possible after the launch of the Beacon Chain in December 2020.
+
+<!-- banner_place -->
 
 ## What is an Ethereum Improvement Proposal (EIP)?
 An Ethereum Improvement Proposal (EIP) is an initiative to modify and enhance the Ethereum network. Anyone can create an EIP by submitting a proposal for consideration by the community and the developer council, filling out the relevant application. To get an EIP accepted and implemented, it needs approval for all the technical changes proposed within the initiative. Each EIP is also designated by a unique number, and the Shanghai upgrade is identified as EIP 4895.
