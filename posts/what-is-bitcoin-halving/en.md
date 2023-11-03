@@ -1,5 +1,5 @@
 ---
-title: "What is Bitcoin halving"
+title: "When Is the Next Bitcoin Halving?"
 level: "beginner"
 coverImage: "/assets/blog/what-is-bitcoin-halving/cover.png"
 date: "2023-10-17T05:35:07.322Z"

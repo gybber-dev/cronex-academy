@@ -1,5 +1,5 @@
 ---
-title: "Что такое халвинг биткоина"
+title: "Когда произойдет следующий халвинг биткоина?"
 level: "beginner"
 coverImage: "/assets/blog/what-is-bitcoin-halving/cover.png"
 date: "2023-10-17T05:35:07.322Z"
