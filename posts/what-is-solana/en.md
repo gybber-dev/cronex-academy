@@ -18,6 +18,8 @@ Limited scalability is a significant issue confronting blockchain technologies. 
 
 Solana, a blockchain founded by Anatoliy Yakovenko from Solana Labs in 2017, introduces a fresh approach to transaction verification. Well-known challenges faced by prominent projects like Bitcoin and Ethereum encompass sluggish transaction processing, high transaction fees, and substantial energy consumption. In order to tackle these issues, Solana implements innovative techniques, such as Proof of History (PoH) and parallel transaction processing, facilitating the handling of thousands of transactions per second (TPS).
 
+<!-- banner_place -->
+
 ## How Solana Operates
 Solana is a third-generation blockchain that utilizes the Proof of Stake (PoS) consensus algorithm. To achieve high throughput, fast transactions, and low fees, Solana implements a range of innovative solutions:
 
@@ -60,15 +62,15 @@ Solana charges extremely low fees, with an average transaction processing cost o
 Due to the efficient use of time and resources by Solana nodes and the absence of mining, making it distinct from Proof of Work networks, Solana has emerged as one of the most energy-efficient blockchains. The Solana Foundation, a non-profit organization, plays a vital role in funding and supporting the Solana network. It consistently carries out third-party audits to evaluate Solana's energy usage and compares these figures to those of other blockchain projects, along with their average energy consumption. The most recent report, as of September 2022, presents the following energy consumption statistics:
 
 
-| Action                                                 | Consumption                                                                                                                  |
-|--------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| One Solana transaction                                 | 508 Дж                                                                                                                      |
-| One Google search                                      | 1080 Дж |
-| One transaction in Solana (not related to voting)      | 3290 Дж |
-| One transaction in Ethereum (after merger)             | 144 036 Дж |
-| Fully charging iPhone 13 battery                       | 44 676 Дж   |
-| Mining one bitcoin                                     | 5 005 764 000 Дж  |
-|Average annual energy consumption among cohabitors in the United States | 38 574 000 000 Дж | 
+| Action                                                 | Consumption      |
+|--------------------------------------------------------|------------------|
+| One Solana transaction                                 | 508 J            |
+| One Google search                                      | 1080 J           |
+| One transaction in Solana (not related to voting)      | 3290 J           |
+| One transaction in Ethereum (after merger)             | 144 036 J        |
+| Fully charging iPhone 13 battery                       | 44 676 J         |
+| Mining one bitcoin                                     | 5 005 764 000 J  |
+|Average annual energy consumption among cohabitors in the United States | 38 574 000 000 J | 
 
 
 ## What is SOL
