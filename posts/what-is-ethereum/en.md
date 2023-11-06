@@ -9,6 +9,7 @@ ogImage:
 tags:
   - ethereum
   - blockchain
+  - altcoin
 
 ---
 Ethereum, also referred to as Ether, functions as a decentralized computational platform. It can be likened to a global computer that operates across numerous devices worldwide, ensuring decentralization.

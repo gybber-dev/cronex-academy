@@ -10,6 +10,7 @@ ogImage:
 tags:
   - bitcoin
   - cryptocurrency
+  - basics
 ---
 
 ## Introduction

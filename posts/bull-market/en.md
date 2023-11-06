@@ -9,6 +9,8 @@ ogImage:
   url: '/assets/blog/bull-market/cover.png'
 tags:
   - trade
+  - basics
+  - psychology
 ---
 
 ## Introduction

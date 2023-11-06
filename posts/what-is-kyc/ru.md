@@ -8,7 +8,8 @@ time: 5
 ogImage:
   url: "/assets/blog/what-is-kyc/cover.png"
 tags:
-  - technology 
+  - technology
+  - security
 
 ---
 

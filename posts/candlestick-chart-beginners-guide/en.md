@@ -10,6 +10,8 @@ ogImage:
 tags:
   - trade
   - technology
+  - tutorials
+  - economics
 ---
 
 ## Introduction

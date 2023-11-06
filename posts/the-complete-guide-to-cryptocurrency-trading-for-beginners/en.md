@@ -10,6 +10,9 @@ tags:
   - trade
   - technology
   - psychology
+  - economics
+  - cryptocurrency
+  - tutorials
 ---
 
 

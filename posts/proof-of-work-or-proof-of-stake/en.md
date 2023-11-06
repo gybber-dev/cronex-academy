@@ -9,7 +9,7 @@ ogImage:
 tags:
   - technology
   - blockchain
-  - crypto security 
+  - security 
 ---
 
 

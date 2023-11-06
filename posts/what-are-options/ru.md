@@ -8,6 +8,7 @@ ogImage:
   url: "/assets/blog/what-are-options/cover.png"
 tags:
   - trade
+  - technology
 ---
 
 

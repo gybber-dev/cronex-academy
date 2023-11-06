@@ -11,6 +11,7 @@ tags:
   - mining
   - cryptocurrency
   - bitcoin
+  - basics
 ---
 
 ## Understanding Cryptocurrency Mining

@@ -11,6 +11,7 @@ tags:
   - mining
   - cryptocurrency
   - bitcoin
+  - basics
 ---
 
 ## Что такое майнинг криптовалют

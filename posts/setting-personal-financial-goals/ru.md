@@ -10,6 +10,7 @@ ogImage:
 tags: 
 - trade
 - psychology
+- economics
 ---
 
 ## Что такое личные финансовые цели

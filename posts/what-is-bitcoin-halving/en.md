@@ -8,6 +8,9 @@ ogImage:
   url: "/assets/blog/what-is-bitcoin-halving/cover.png"
 tags:
   - bitcoin
+  - technology
+  - basics
+  - history
 ---
 
 

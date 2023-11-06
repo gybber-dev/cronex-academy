@@ -9,6 +9,7 @@ ogImage:
 tags:
   - trade
   - bitcoin
+  - economics
 ---
 
 ## Вступление

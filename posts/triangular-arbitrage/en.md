@@ -9,6 +9,7 @@ ogImage:
 tags:
   - peer-to-peer
   - trade
+  - technology
 ---
 
 ## Introduction

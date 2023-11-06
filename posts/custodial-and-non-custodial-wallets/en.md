@@ -9,6 +9,7 @@ ogImage:
 tags:
   - wallet
   - cryptocurrency
+  - security
 
 ---
 

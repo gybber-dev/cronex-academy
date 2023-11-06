@@ -9,6 +9,7 @@ ogImage:
 tags:
 - news
 - bitcoin
+- history
 
 ---
 

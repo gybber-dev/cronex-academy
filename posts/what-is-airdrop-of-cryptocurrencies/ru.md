@@ -9,6 +9,7 @@ ogImage:
   url: "/assets/blog/what-is-airdrop-of-cryptocurrencies/cover.png"
 tags:
   - altcoin
+  - cryptocurrency
 ---
 
 ## Введение

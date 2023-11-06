@@ -8,7 +8,8 @@ ogImage:
   url: "/assets/blog/custodial-and-non-custodial-wallets/cover.png"
 tags:
   - wallet
-  - cryptocurrency 
+  - cryptocurrency
+  - security
 
 ---
 ## Вступление

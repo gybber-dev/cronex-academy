@@ -9,6 +9,8 @@ ogImage:
   url: "/assets/blog/first-level-blockchain/cover.png"
 tags:
   - blockchain
+  - technology
+  - basics
 ---
 
 ## Введение

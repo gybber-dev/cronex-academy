@@ -9,6 +9,8 @@ ogImage:
 tags: 
   - wallet
   - cryptocurrency
+  - security
+  - cryptoexchanges
 ---
 
 ## Cryptocurrency Wallet Information

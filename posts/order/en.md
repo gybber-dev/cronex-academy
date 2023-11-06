@@ -9,6 +9,7 @@ ogImage:
 tags:
   - bitcoin
   - trade
+  - technology
 ---
 
 ## Introduction

@@ -11,6 +11,7 @@ ogImage:
 tags:
     - trade
     - psychology
+    - economics
 
 ---
 ## Введение

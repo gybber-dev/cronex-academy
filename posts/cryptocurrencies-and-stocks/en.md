@@ -9,7 +9,8 @@ ogImage:
 url: "/assets/blog/cryptocurrencies-and-stocks/cover.png"
 tags:
     - trade
-    - cryptocurrency 
+    - cryptocurrency
+    - economics
 
 ---
 ## Introduction

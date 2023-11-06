@@ -10,6 +10,10 @@ ogImage:
 tags:
   - trade
   - cryptocurrency
+  - economics
+  - technology
+  - psychology
+
 
 ---
 

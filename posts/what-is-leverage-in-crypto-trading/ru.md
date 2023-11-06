@@ -9,6 +9,7 @@ ogImage:
 tags:
   - trade
   - cryptoexchanges
+  - technology
 ---
 
 ## Вступление

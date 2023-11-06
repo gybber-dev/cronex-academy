@@ -9,7 +9,9 @@ ogImage:
   url: "/assets/blog/what-is-eos/cover.png"
 tags:
   - cryptocurrency
-  - blockchain    
+  - blockchain
+  - altcoin
+
 ---
 
 ## Введение

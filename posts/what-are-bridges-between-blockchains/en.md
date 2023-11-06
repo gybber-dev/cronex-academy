@@ -7,7 +7,9 @@ time: 4
 ogImage:
   url: "/assets/blog/what-are-bridges-between-blockchains/cover.png"
 tags:
-  - blockchain 
+  - blockchain
+  - security
+  - technology
 ---
 
 ## Introduction

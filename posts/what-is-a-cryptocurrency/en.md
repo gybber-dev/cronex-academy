@@ -8,6 +8,8 @@ ogImage:
   url: "/assets/blog/what-is-a-cryptocurrency/cover.png"
 tags:
   - cryptocurrency
+  - basics
+  - security
 ---
 
 ## Introduction

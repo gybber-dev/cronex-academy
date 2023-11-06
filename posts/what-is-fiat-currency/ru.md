@@ -8,6 +8,7 @@ ogImage:
   url: "/assets/blog/what-is-fiat-currency/cover.png"
 tags:
   - cryptocurrency
+  - basics
 ---
 
 ## Что такое Фиатная Валюта?

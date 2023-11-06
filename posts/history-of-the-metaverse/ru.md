@@ -11,6 +11,7 @@ tags:
   - cryptocurrency
   - technology
   - nft
+  - history
   
 ---
 

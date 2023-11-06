@@ -10,6 +10,7 @@ url: "/assets/blog/cryptocurrencies-and-stocks/cover.png"
 tags:
     - trade
     - cryptocurrency
+    - economics
 
 ---
 ## Вступление

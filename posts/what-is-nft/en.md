@@ -8,6 +8,8 @@ ogImage:
 url: "/assets/blog/what-is-nft/cover.png"
 tags:
 - nft
+- basics
+- technology
 ---
 
 ## Introduction

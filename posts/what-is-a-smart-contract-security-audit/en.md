@@ -8,7 +8,8 @@ ogImage:
   url: "/assets/what-is-a-smart-contract-security-audit/cover.png"
 tags:
   - smart contracts
-  - crypto security
+  - security
+  - technology
 ---
 
 
