@@ -24,7 +24,9 @@ The history of futures markets has its own uniqueness, dating back centuries to 
 
 In the modern era, the evolution of electronic trading systems has introduced unparalleled possibilities for leveraging futures contracts, leading to their exceptional prevalence throughout the financial industry.
 
-### Roles of Futures Contracts
+<!-- banner_place -->
+
+## Roles of Futures Contracts
 
 The roles of futures contracts within the realm of finance generally encompass the following functions:
 
@@ -38,7 +40,7 @@ The roles of futures contracts within the realm of finance generally encompass t
 
 - Price Determination: In futures markets, sellers and buyers can effectively meet their demands for various asset types, including commodities. This ensures that supply and demand align efficiently, leading to real-time price discovery. For instance, the price of oil can be determined based on the prevailing demand in futures markets rather than relying solely on retail gasoline station trading.
 
-### Mechanism of Settlement
+## Mechanism of Settlement
 
 The mechanism for settling futures contracts involves the following key aspects:
 
@@ -52,7 +54,7 @@ Cash-settled futures contracts are generally more popular and convenient when co
 
 However, cash-settled contracts can also be susceptible to price manipulation, including unusual trading activity aimed at disrupting the standard trading processes, particularly as the futures contract expiry date approaches.
 
-### Unique aspects of futures contracts exit strategies:
+## Unique aspects of futures contracts exit strategies:
 
 - Offsetting: This method allows traders to close their futures contract positions by executing opposing transactions with the same contract in the reverse direction at the exact price. This offers traders the flexibility to realize accumulated profits or losses and finalize their positions ahead of the contract's settlement date.
 
@@ -62,7 +64,7 @@ However, cash-settled contracts can also be susceptible to price manipulation, i
 
 Each exit strategy provides unique advantages and flexibility, making it crucial for traders to consider their individual goals, market dynamics, and the requirement for asset delivery when choosing the most suitable approach.
 
-### Price Models for Futures Contracts: Contango and Normal Backwardation
+## Price Models for Futures Contracts: Contango and Normal Backwardation
 
 Futures contracts introduce a dynamic interplay of market forces from their inception to their maturity. These fluctuations culminate in the establishment of two distinctive price models: "Contango" and "Normal Backwardation," each intrinsically linked to expectations regarding the future spot price of the underlying asset upon contract expiry.
 
