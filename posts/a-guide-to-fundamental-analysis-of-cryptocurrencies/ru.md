@@ -9,6 +9,8 @@ ogImage:
   url: "/assets/blog/a-guide-to-fundamental-analysis-of-cryptocurrencies/cover.png"
 tags:
   - trade
+  - economics
+  - tutorials
 ---
 
 ## Введение

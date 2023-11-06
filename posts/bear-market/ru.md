@@ -9,6 +9,8 @@ ogImage:
   url: "/assets/blog/bear-market/cover.png"
 tags:
     - trade
+    - basics
+    - economics
 
 ---
 

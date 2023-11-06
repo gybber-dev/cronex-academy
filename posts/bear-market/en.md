@@ -9,6 +9,8 @@ ogImage:
   url: "/assets/blog/t/cover.png"
 tags:
   - trade
+  - basics
+  - economics
 ---
 
 ## Understanding the Bear Market

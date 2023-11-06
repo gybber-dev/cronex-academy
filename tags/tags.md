@@ -1,25 +1,37 @@
 ---
 tags:
-- cryptocurrency  
-- blockchain  
-- bitcoin  
-- ethereum  
-- stablecoin
-- nft  
-- trade  
-- smart contracts  
-- crypto wallets  
-- mining  
-- crypto security  
-- cryptoexchanges  
-- cronex  
-- peer-to-peer  
-- news  
-- regulations  
-- psychology
-- technology
-- wallet
 - altcoin
+- basics
+- bitcoin
+- blockchain
+- cryptocurrency
+- crypto security
+- cryptoexchanges
+- cronex
+- economics
+- ethereum
+- history
+- mining
+- news
+- nft
+- peer-to-peer
+- psychology
+- regulations
+- smart contracts
+- stablecoin
+- technology
+- trade  
+- tutorials
+- wallet
+
+
+
+
+
+
+
+
+
 
 ---
 
