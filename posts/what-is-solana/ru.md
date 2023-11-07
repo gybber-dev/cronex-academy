@@ -9,6 +9,9 @@ ogImage:
   url: "/assets/blog/what-is-solana/cover.png"
 tags:
   - altcoin
+  - blockchain
+  - cryptocurrency
+  - basics
  
 ---
 

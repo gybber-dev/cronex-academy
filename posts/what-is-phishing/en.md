@@ -8,7 +8,8 @@ time: 4
 ogImage:
   url: "/assets/blog/what-is-phishing/cover.png"
 tags:
-  - security  
+  - security
+  - psychology
 ---
 
 ## Introduction

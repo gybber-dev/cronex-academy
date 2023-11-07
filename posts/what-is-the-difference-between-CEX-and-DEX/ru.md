@@ -8,6 +8,8 @@ ogImage:
   url: "/assets/blog/what-is-the-difference-between-CEX-and-DEX/cover.png"
 tags:
 - technology
+- cryptoexchanges
+- security
 ---
 
 ## Вступление 

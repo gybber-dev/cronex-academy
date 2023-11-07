@@ -8,6 +8,9 @@ ogImage:
   url: "/assets/blog/what-is-qtum/cover.png"
 tags:
   - altcoin
+  - cryptocurrency
+  - blockchain
+  
 
 ---
 

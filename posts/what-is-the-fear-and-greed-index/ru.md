@@ -10,6 +10,7 @@ ogImage:
 tags:
     - trade
     - technology
+    - psychology
 
 ---
 

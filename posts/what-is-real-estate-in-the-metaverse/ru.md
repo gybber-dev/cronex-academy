@@ -8,6 +8,7 @@ ogImage:
   url: "/assets/blog/what-is-real-estate-in-the-metaverse/cover.png"
 tags:
   - nft
+  - basics
 ---
 
 

@@ -9,6 +9,8 @@ ogImage:
   url: "/assets/what-is-uniswap-v4/t/cover.png"
 tags:
   - altcoin
+  - basics
+  - blockchain
 ---
 
 ## Введение

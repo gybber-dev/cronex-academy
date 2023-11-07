@@ -9,6 +9,8 @@ ogImage:
   url: "/assets/what-is-uniswap-and-how-does-it-work/t/cover.png"
 tags:
   - altcoin
+  - basics
+  - blockchain
 ---
 
 

@@ -9,6 +9,8 @@ ogImage:
   url: "/assets/blog/what-is-the-ethereum-shanghai-update-and-how-will-it-affect-users/cover.png"
 tags:
   - ethereum
+  - blockchain
+  - altcoin
 ---
 
 
