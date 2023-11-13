@@ -14,6 +14,7 @@ tags:
   - cryptocurrency
 ---
 
+## Introduction
 When initiating the process of creating a new cryptocurrency, a pivotal decision lies in whether it will manifest as an independent coin on its bespoke blockchain platform or as a token issued within an existing blockchain network. The bedrock of blockchain technology assures a robust security framework and decentralized nature for these digital assets.
 
 The creation of a token is generally more accessible, demanding less expertise and know-how compared to the intricate development of a dedicated coin. Crafting a token necessitates technical proficiency, but the entire procedure can be executed swiftly, particularly when employing blockchain platforms like Ethereum, Binance Smart Chain, Solana, or Polygon.
@@ -26,7 +27,7 @@ Before delving into the endeavor of birthing your cryptocurrency, it's imperativ
 
 <!-- banner_place -->
 
-## Introduction
+
 Many cryptocurrency enthusiasts are inspired by the idea of creating their own cryptocurrency and contemplate ways to bring it to life, utilize it, and attract users. But how should one embark on this exciting journey? There are numerous paths to create a cryptocurrency, and the choice depends on the complexity of your project. If you're considering launching your own cryptocurrency, in this article, we will explore the fundamentals to help you kickstart this journey.
 
 ## What Is Cryptocurrency
