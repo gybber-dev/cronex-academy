@@ -5,7 +5,7 @@ tags:
 - bitcoin
 - blockchain
 - cryptocurrency
-- security
+
 - cryptoexchanges
 - cronex
 - economics
@@ -19,6 +19,7 @@ tags:
 - regulations
 - smart contracts
 - stablecoin
+- security
 - technology
 - trade  
 - tutorials
