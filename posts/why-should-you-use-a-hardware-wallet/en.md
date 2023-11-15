@@ -3,7 +3,7 @@ title: "Why You Should Use a Hardware Wallet?"
 description: "Using a hardware wallet provides an unparalleled level of security for your cryptocurrency assets, shielding them from online threats and hacker attacks. Hardware wallets also give you complete control over your funds, allowing you to store and manage your cryptocurrencies in a secure and invulnerable environment."
 level: "beginner"
 coverImage: "/assets/blog/why-should-you-use-a-hardware-wallet/cover.png"
-date: "2023-11-7T05:35:07.322Z"
+date: "2023-11-07T05:35:07.322Z"
 time: 4
 ogImage:
   url: "/assets/blog/why-should-you-use-a-hardware-wallet/cover.png"
