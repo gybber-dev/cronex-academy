@@ -3,7 +3,7 @@ title: "What are forward and futures contracts?"
 description: "Forward and futures contracts are agreements that allow market participants to buy or sell assets in the future at a pre-established price. While forward contracts are often individually customized and non-standardized, futures contracts are standardized instruments traded on exchanges."
 level: "advanced"
 coverImage: "/assets/blog/what-are-forward-and-futures-contracts/cover.png"
-date: "2023-11-6T05:35:07.322Z"
+date: "2023-11-06T05:35:07.322Z"
 time: 6
 ogImage:
   url: "/assets/blog/what-are-forward-and-futures-contracts/cover.png"
