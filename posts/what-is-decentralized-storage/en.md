@@ -31,6 +31,8 @@ This strategy ensures straightforward accessibility and governance of informatio
 
 To secure data during its transit to a centralized server, encryption using 128-bit SSL technology is the usual safeguard. Furthermore, once data is uploaded to centralized storage, it may undergo encryption utilizing 256-bit encryption technology.
 
+<!-- banner_place -->
+
 ### Decentralized Storage
 
 However, centralized storage has its drawbacks. Regardless of the security level, encryption keys are solely managed by the storage platform, potentially leading to issues with access, transparency, and control. Storing data in a single location also exposes it to the risk of attacks from malicious actors who could exploit a single point of failure and gain access to extensive volumes of information.
