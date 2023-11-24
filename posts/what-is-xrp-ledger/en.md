@@ -26,6 +26,8 @@ This mechanism involves appointed servers, or validators, reaching consensus on 
 
 Thanks to the Federated Consensus mechanism, XRPL is capable of handling over 1500 transactions per second with confirmation times of 3-5 seconds. The network attracts users with its low fees (usually less than a cent) and fair transaction processing, where no user can prioritize transactions. All validated transactions are processed without a single point of failure since no participant holds decisive influence over the system.
 
+<!-- banner_place -->
+
 ## XRPL for developers
 For developers, XRPL's order book provides extensive programming opportunities in various languages such as Python, Java, and JavaScript. This blockchain caters to independent developers as well as companies with diverse tasks. The official XRPL website offers numerous educational resources on programming languages, app development, account management, and more.
 
