@@ -2,7 +2,7 @@
 title: "The largest crypto hacks in history"
 level: "beginner"
 coverImage: "/assets/blog/the-largest-crypto-hacks-in-history/cover.png"
-date: "2023-11-13T05:35:07.322Z"
+date: "2023-11-24T05:35:07.322Z"
 time: 6
 ogImage:
   url: "/assets/blog/the-largest-crypto-hacks-in-history/cover.png"
