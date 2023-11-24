@@ -5,7 +5,6 @@ tags:
 - bitcoin
 - blockchain
 - cryptocurrency
-
 - cryptoexchanges
 - cronex
 - economics
