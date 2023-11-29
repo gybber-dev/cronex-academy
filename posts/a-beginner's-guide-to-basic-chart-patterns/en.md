@@ -27,6 +27,8 @@ Flags are consolidation zones that emerge in contrast to a long-term trend, form
 
 The use of flags involves identifying potential continuations of the current trend. However, the trading volume accompanying the formation of this pattern is also crucial. Ideally, the impulse movement is accompanied by high volume, while the consolidation phase is characterized by a decrease in trading volume.
 
+<!-- banner_place -->
+
 ### Bullish flag
 <img src="/assets/blog/a-beginner's-guide-to-basic-chart-patterns/bullish-flag.png" alt="Bullish flag" />
 
