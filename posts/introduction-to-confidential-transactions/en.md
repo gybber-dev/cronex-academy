@@ -46,8 +46,8 @@ However, this approach doesn’t assure absolute reliability. Participants can i
 
 Pedersen commitment allows merging data while maintaining confidentiality. This method is used in transaction processes, where commitments are created before fund transfer, verified to confirm data correctness upon reception.
 
-<img src="/assets/blog/introduction-to-confidential-transactions/formula.png" alt="C(BF1 + D1) + C(BF2 + D2) = C(BF1 + BF2, D1 + D2) where BF — glare factor, аnd D — data" />
-where BF — glare factor, and D — data
+<img src="/assets/blog/introduction-to-confidential-transactions/formula.png" alt="C(BF1 + D1) + C(BF2 + D2) = C(BF1 + BF2, D1 + D2) where BF — blinding factor, аnd D — data" />
+where BF — blinding factor, and D — data
 
 Despite involving several steps and utilizing elliptic curve cryptography, the core idea remains: during transactions, commitments are aggregated and verified to ensure input-output data consistency, facilitating transaction verification without revealing specific amounts.
 
