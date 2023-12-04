@@ -1,5 +1,5 @@
 ---
-title: "Распространенные уязвимости в системах безопасности блокчейн-мостов"
+title: "Common vulnerabilities in blockchain bridge security systems"
 description: "Common vulnerabilities in blockchain bridge security systems include weak on-chain validation and improper configuration, posing security risks and potential exploitation by malicious actors for attacks and fund withdrawals. Insufficient validation during on-chain processes and configuration errors can create opportunities for breaches and asset theft from the bridges."
 level: "advanced"
 coverImage: "/assets/blog/common-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
@@ -25,6 +25,8 @@ Blockchain bridges typically hold tokens that users move between different block
 Blockchain bridges themselves contain numerous vulnerabilities, given they are composed of various components. Bad actors might aim to attack these cross-chain applications to steal funds due to the substantial amount of assets stored within them.
 
 According to CertiK estimates, in 2022, over $1.3 billion was lost due to attacks on blockchain bridges, accounting for 36% of the total losses for the year.
+
+<!-- banner_place -->
 
 ## Common Vulnerabilities in Bridge Security Systems
 To ensure the reliability of bridges, it's essential to examine typical weak points and conduct thorough testing before their implementation. There are four main categories of vulnerabilities that most frequently pose risks to bridges.
