@@ -28,6 +28,7 @@ One of the proposed enhancements was the implementation of confidential transact
 Confidential Transactions (CT) is a concept first proposed by Blockstream's CEO, Adam Back, in 2013, later augmented by ideas from Bitcoin developer Gregory Maxwell. The essence of these transactions lies in concealing the information regarding the transferred amount from all participants in the network except the two parties directly involved in the transaction.
 
 <img src="/assets/blog/introduction-to-confidential-transactions/confidential-transaction.png" alt="Confidential transactions" />
+Confidential transactions
 
 Under normal conditions, when transactions are visible to everyone, nodes can easily verify that the amount received by one party does not exceed the sent amount. For instance, if Louise intends to send 0.3 BTC to John, she takes an unspent output (e.g., 1 BTC), sends 0.3 BTC to John, and retains the remaining 0.69 BTC for herself (factoring in the mining fee).
 
@@ -45,7 +46,8 @@ However, this approach doesn’t assure absolute reliability. Participants can i
 
 Pedersen commitment allows merging data while maintaining confidentiality. This method is used in transaction processes, where commitments are created before fund transfer, verified to confirm data correctness upon reception.
 
-<img src="/assets/blog/introduction-to-confidential-transactions/formula.png" alt="C(BF1 + D1) + C(BF2 + D2) = C(BF1 + BF2, D1 + D2) Где BF — glare factor, а D — data" />
+<img src="/assets/blog/introduction-to-confidential-transactions/formula.png" alt="C(BF1 + D1) + C(BF2 + D2) = C(BF1 + BF2, D1 + D2) where BF — glare factor, аnd D — data" />
+where BF — glare factor, and D — data
 
 Despite involving several steps and utilizing elliptic curve cryptography, the core idea remains: during transactions, commitments are aggregated and verified to ensure input-output data consistency, facilitating transaction verification without revealing specific amounts.
 
