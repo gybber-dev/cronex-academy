@@ -24,6 +24,8 @@ The confidentiality of Bitcoin is often overstated. Not only coins but also user
 
 One of the proposed enhancements was the implementation of confidential transactions to achieve real privacy in conducting operations.
 
+<!-- banner_place -->
+
 ## What are confidential transactions?
 Confidential Transactions (CT) is a concept first proposed by Blockstream's CEO, Adam Back, in 2013, later augmented by ideas from Bitcoin developer Gregory Maxwell. The essence of these transactions lies in concealing the information regarding the transferred amount from all participants in the network except the two parties directly involved in the transaction.
 
