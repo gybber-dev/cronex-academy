@@ -29,6 +29,8 @@ Another appealing aspect is the opportunity for short exposure. Traders can spec
 
 Moreover, financial leverage is a significant factor. Users can open trading positions that exceed their available funds, allowing for increased potential profit or loss as asset prices fluctuate.
 
+<!-- banner_place -->
+
 ## What is a perpetual contract?
 
 A perpetual contract is a unique type of futures contract characterized by the absence of a specific expiration date. This allows maintaining a position for as long as necessary. Unlike regular futures, perpetual contracts use an underlying price index based on the average price of the asset on major spot markets and their trading volume.
