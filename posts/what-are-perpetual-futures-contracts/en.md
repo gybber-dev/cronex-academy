@@ -76,3 +76,6 @@ Auto-deleveraging refers to the automatic liquidation of funds, occurring only i
 This is a measure taken if the insurance fund cannot cover the losses of bankrupt users. Typically, positions with the highest profits and leverage have a more significant impact. Platforms provide indicators to allow users to understand where their trades stand in the queue for automatic liquidation.
 
 Cryptocurrency platforms take steps to minimize the risk of auto-deleveraging, employing various features. In the event of this mechanism being activated, fund liquidation occurs without commissions, and affected traders promptly receive notifications. Users also retain the ability to freely create new positions at any time.
+
+     
+ 
