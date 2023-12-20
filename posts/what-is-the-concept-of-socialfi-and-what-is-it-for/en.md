@@ -31,6 +31,8 @@ SocialFi combines social networks with finance, enabling users to earn from thei
 
 - Decentralized autonomous organizations (DAOs) governing the protocol.
 
+<!-- banner_place -->
+
 ### SocialFi and DeSoc
 SocialFi and decentralized social networks (DeSoc) share many similarities but have a significant difference. SocialFi focuses on earning through social interactions, making it akin to Patreon compared to Instagram. Although both platforms provide content and attract audiences, their goals differ: one is oriented toward financial transactions while the other is geared toward fostering social connections.
 
