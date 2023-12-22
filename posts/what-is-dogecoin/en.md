@@ -34,6 +34,8 @@ However, the project became notable for more ambitious charitable initiatives: i
 
 Interest in Dogecoin was further bolstered by Tesla CEO Elon Musk, who humorously referred to Dogecoin as "one of his favorite cryptocurrencies," leading the community to playfully proclaim him the "CEO" of this coin.
 
+<!-- banner_place -->
+
 ### Pump on TikTok
 The TikTok "pump" incident in mid-2020 involved a viral video urging users to buy Dogecoin, assuring them that its price would reach $1, promising immense wealth. This fueled a surge in DOGE value by over two and a half times within a few weeks. However, this surge turned out to be temporary, and the price began to plummet rapidly.
 
