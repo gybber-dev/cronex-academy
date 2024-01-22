@@ -1,6 +1,6 @@
 ---
 title: "How to set personal financial goals and achieve them?"
-description: "Personal financial goals are specific and measurable financial objectives that help in budgeting, expense management, and the development of financial skills. These goals can vary depending on individual circumstances, and common approaches to achieving them include reducing expenses and increasing sources of income."
+description: "Personal financial goals are specific and measurable financial objectives that help in budgeting, expense management, and the development of financial skills. These goals can vary depending on individual circumstances, and common.json approaches to achieving them include reducing expenses and increasing sources of income."
 level: "beginner"
 coverImage: "/assets/blog/how-to-set-personal-financial-goals/cover.png"
 date: "2023-09-11T05:35:07.322Z"

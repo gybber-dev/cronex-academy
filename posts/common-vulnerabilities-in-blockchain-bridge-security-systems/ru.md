@@ -2,11 +2,11 @@
 title: "Распространенные уязвимости в системах безопасности блокчейн-мостов"
 description: "Одни из распространенных уязвимостей в системах безопасности блокчейн-мостов включают слабую ончейн-валидацию и неправильную конфигурацию, которые могут представлять риски для безопасности и быть использованы злоумышленниками для атак и вывода средств. Недостаточная проверка при ончейн-валидации и ошибки в конфигурации могут создавать возможности для взлома и кражи активов из мостов."
 level: "advanced"
-coverImage: "/assets/blog/common-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
+coverImage: "/assets/blog/common.json-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
 date: "2023-11-29T05:35:07.322Z"
 time: 4
 ogImage:
-  url: "/assets/blog/common-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
+  url: "/assets/blog/common.json-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
 tags:
   - blockchain
   - technology

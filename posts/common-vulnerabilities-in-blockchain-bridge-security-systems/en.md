@@ -2,11 +2,11 @@
 title: "Common vulnerabilities in blockchain bridge security systems"
 description: "Common vulnerabilities in blockchain bridge security systems include weak on-chain validation and improper configuration, posing security risks and potential exploitation by malicious actors for attacks and fund withdrawals. Insufficient validation during on-chain processes and configuration errors can create opportunities for breaches and asset theft from the bridges."
 level: "advanced"
-coverImage: "/assets/blog/common-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
+coverImage: "/assets/blog/common.json-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
 date: "2023-11-29T05:35:07.322Z"
 time: 4
 ogImage:
-  url: "/assets/blog/common-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
+  url: "/assets/blog/common.json-vulnerabilities-in-blockchain-bridge-security-systems/cover.png"
 tags:
   - blockchain
   - technology
