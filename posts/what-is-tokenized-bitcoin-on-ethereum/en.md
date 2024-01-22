@@ -1,6 +1,6 @@
 ---
 title: "What is Tokenized Bitcoin on Ethereum"
-description: "Токенизированный биткоин на Ethereum представляет собой форму представления биткоина в виде токенов (часто ERC-20) на блокчейне Ethereum. Они позволяют пользователям использовать биткоины в экосистеме Ethereum, открывая доступ к децентрализованным финансовым услугам и другим приложениям в этой сети."
+description: "Tokenized Bitcoin on Ethereum is a form of representing Bitcoin as tokens (often ERC-20) on the Ethereum blockchain. They allow users to use Bitcoin within the Ethereum ecosystem, opening access to decentralized financial services and other applications on the network."
 level: "intermediate"
 coverImage: "/assets/blog/what-is-tokenized-bitcoin-on-ethereum/cover.png"
 date: "2023-12-15T05:35:07.322Z"
@@ -34,6 +34,8 @@ It's also worth mentioning that sidechains and second-layer solutions like Bitco
 Tokenized projects can expand the capabilities of Bitcoin owners, while projects without tokens help improve the overall infrastructure. This contributes to a tighter integration within the cryptocurrency space, benefiting the entire industry.
 
 But what are the benefits of tokenizing Bitcoin, and why is it important? Let's explore the advantages that can be derived from this process.
+
+<!-- banner_place -->
 
 ## Why tokenize Bitcoin on Ethereum
 Tokenizing Bitcoin on Ethereum serves specific purposes. Bitcoin was intentionally designed for simplicity and performs a limited set of functions, while innovations in other cryptocurrency areas remain outside its scope.
