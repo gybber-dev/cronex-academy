@@ -25,6 +25,7 @@ The decoupling of stablecoins occurs when their market value deviates from the p
 
 The loss of stability in such an asset can have significant repercussions. Below, we will examine real examples of such events, but first, let's understand how stablecoins manage their pegs.
 
+<!-- banner_place -->
 
 ## Maintaining Stability in Stablecoins
 
